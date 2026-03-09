@@ -1,0 +1,64 @@
+---
+tags:
+  - Other
+---
+Within the world of What Lies West (?), many lineages can be found throughout both [[Koross]] and [[Balphora]]. From the western coast of Koross- the Hills of Horadrin, to the borders of [[Hivewaste]] at the far east, there are numerous peoples that make their homes within every corner of the world, so who are they?
+
+# [[The Plain Three]]
+## [[Humans]]-
+
+Associated with corruption by the other lineages, Humans have have a long history of strife within their own factions and noble families. Some pushed for or against slavery, some war, and yet there will still many who just wanted to be left alone. The previous rulers of [[Koross]], [[House Thaddeus]], was once the greatest faction in the known world, but after defeat during the [[Orc Revolution]] their entire kingdom fell apart, splintering into their confederates and vassals that were once under the thumb of the great house. Nowadays, humans are given wary eyes from other folk, fearful of just what *kind* of human they may be.
+
+## [[Elves]]-
+
+Perhaps the most widely spread lineage of [[Koross]], elves were once kind and fair rulers. But several hundreds of years ago a deal was made with the at-the-time ruler of [[House Thaddeus]] and the Elven kingdom- [[Moradesh]]. House Thaddeus funded their conquest for land in exchange for backing the enslavement of [[Orcs]]. The deal was made, and with the might of Moradesh at their heels Humans rounded up thousands of greenskins and sent them to the pits. Nowadays, after the [[Orc Revolution]], Moradesh still stands- and still wishes for the 'good old days'. Though, there are many within that wish for change, but given the long lives of elves their leaders will not be going any time soon. Two other major elven factions also exist, and you can find them [[All Major Factions|here]].
+
+## [[Dwarves]]-
+
+The Dwarves are the most clear previous inhabitants of [[Balphora]] and [[The West]], their ancient holds and monolithic artifices visible on almost every mountain in the old world. At a deeper glance, they clearly weren't the ONLY lineage to have originally come from Balphora, but their skills for architecture left their holds as the most prominent signs of civilization still standing. Within [[Koross]], the Dwarves, [[Humans]] and [[Elves]] made a deal of peace between each other- becoming known by other lineages as [[The Plain Three]]'s binding. The Dwarves, unlike their allies, were disgusted by slavery, and once the [[Orcs]] were brought under foot they locked themselves in their holds and severed all their pacts with the other two members of The Plain Three. One of their factions, however, took the 'reason' the orcs were enslaved a little too seriously- The [[Sons of Y'zrold]], who heard of the 'dark [[Magic|magic]]' that spawned the Orcs and vowed to wipe all magic out themselves.
+
+# [[The Warborn]]
+
+## [[Minotaurs]]-
+
+The Minotaurs are the undeniable rulers of [[The Northern Wastes]]. They have all been united under a single flag- the rule of [[Immolesh]], The Fire Tamer, and would follow him to the ends of the planet if he asked. The Minotaurs were once, long ago, walled off from the other lineages of [[Koross]], as the Minotaurs were required to regularly raid southern farmsteads to feed themselves. But after they were walled off, Immolesh's crusade united their people completely and they marched south without contest. Instead of resuming their pillaging the cow-folk made a deal with [[House Thaddeus]] and [[Moradesh]] to end the [[Orc Revolution]], which at the time was destroying the economy of the entire continent, in exchange for letting the Minotaurs settle into the lands as any other [[Humans|Human]] or [[Elves|Elf]] could. The deal was made, and even though Immolesh and his herd ended the Orc Revolution, he used his military might to force House Thaddeus into giving the Orcs rights as well. With their armies destitute from the revolution, they had no choice to obey. This moment of weakness was used by countless Human factions under their iron fist to break away and become independent, leading to the border crisis today.
+
+# [[Ogres]]-
+
+A rare breed of folk- who's numbers were nearly exterminated during the [[Orc Revolution]]. The Ogres seemingly migrated from [[Balphora]] along with the others during 'the great evacuation', when seemingly, all at once, every lineage of Balphora fled to Koross. The Ogres, despite their size, were once hunted for sport by some [[Humans]], [[Elves]] and even sometimes [[Goblins]]. This led to a festering rage in their people, which came all to a boiling point when the [[Orcs]] came to them with an offer of allegiance to break the chains, and spines, of their oppressors. Ogres are rare nowadays, as the [[Minotaurs]] slaughtered hundreds of them in weeks when they took to the battlefield. With their slow reproduction and long gestation times, Ogres seem doomed to fade away after so many of them died. Nowadays they hide away in the [[Frigid South]], a land of ice and snow that no mortal other than them can safely inhabit.
+
+# [[Orcs]]-
+
+Despite their history as slaves and legionnaires for those greater than themselves, the Orcs were once at the center of everything. Their enslavement shattered bonds, broke kingdoms, and disgusted thousands. While nothing was done for a time, with word from [[The West]] of their lineage, they shattered their chains. What was first a slow, meaningless feud between a thousand slaves and their masters grew into a wildfire of anger. The Orcs made deals with the [[Ogres]] and [[Catfolk]], and marched upon the kingdoms of [[House Thaddeus]] and [[Moradesh]], crushing their cites beneath their heels. But, as is said again and again- they lost in the end. The [[Minotaurs]] were warriors by birth- they have flintlock weapons and cannons. The greenskins were never even the slightest match for them. But, in [[Immolesh|Immolesh's]] kindness, he held [[Iradeen Thaddeus]] at gunpoint and made him sign the papers that freed the Orcs from their chains. Nowadays, the orcs migrate [[The West|West]], seeking out their ancient home and fleeing the place with so many bad memories for their ilk.
+
+## [[Centaurs]]-
+
+Goliaths of the east- of [[Harush]]- the Centaurs only joined [[Koross|Koross']] other factions in unity after the [[Orc Revolution]], recognizing [[Immolesh]] as a man worthy of their cooperation. The Centaurs are a group of skilled trackers and hunters- born for feeling great beasts and reaping their rewards from the carcass. Centaurs have had dealing with the [[Catfolk]] in the past, but they never got along well- the Catfolk build cities while the Centaurs constantly stay on the move. They did find common ground with the [[Hands of Raknarous]], who share much of their ideology. Nowadays, the Centaurs answer [[The Calling]] to [[The West]] and find glee in hunting the largest [[Monsters]] in the known world. Many a Centaur claims they will be the first to fell a full-grown [[Ossuary Titans|Ossuary Titan]]. Such a prospect is surely ridiculous... right?
+
+# [[The Beastpact]]
+
+## [[Catfolk]]-
+
+*The* people folk imagine in their head when they hear the word 'beast-man', the Catfolk are a well known, and surprisingly well-liked group. Catfolk religion is about exploring and colonizing the world- and conquering its ingredients to properly thank their [[Gods|god]]- [[Generous Harush]]. Catfolk are world-renowned for their cooking. They invented countless dozens of dishes that other lineages, namely inclusive [[Humans]], eat on the regular. The Catfolk aren't just cooks, though- they are capable killers. During the [[Orc Revolution]] it was the Catfolk who assassinated [[Koross|Korosian]] officials and halted armies. It was the Catfolk who almost killed [[Iradeen Thaddeus]] three separate times while he was under guard by the [[Minotaurs]]. It was their 'leader', [[Ser Mallorin Berns of Harush]] who urged [[Immolesh]] to act in favor of the [[Orcs]]. Today, many a Catfolk ventures [[The West|West]] to conquer the unconquerable.
+
+# [[Ratfolk]]-
+
+When [[Adventurers|Explorators]], the old name for adventurers, visited the regions bordering the [[Frigid South]], they encountered a people unlike any they had yet to encounter. The Ratfolk. 2/3rds the size of a man, and three times as cunning, the Ratfolk were wary of the men-at-arms who ventured their mountainous home of [[M'rikki]]. They hide like... well rats every time any diplomats rolled around. Some thought there couldn't be more than a thousand of the 'buggers' given their cowardice. Eventually, with enough persistence, a diplomat was able to make contact with the Ratfolk- and found out just how many of them there was. The Ratfolk had built an underground society in massive, lush caves beneath the surface. Great golden crystals shone with the sun's light at day, and dulled into moonlight during the dark. Their society was, or rather still is, a hidden sanctuary built on the cooperation of everyone. There are no kings or queens, only farmers and blacksmiths. When they were invited to the surface- to [[Koross]], only the bravest of their ilk left their homes to the north, becoming some of the best merchants in the world. Nowadays, the confident members of Ratfolk society venture [[The West|West]] for their next business venture.
+
+## [[Goblins]]-
+
+While not beasts, not really at least, the 'monstrous' Goblins are still regarded as members of the Beastpact. [[Humans]] found their civilization early on, and under command of [[House Thaddeus]] vassalized their people. The Goblins spent their lives under flags that were not their own, and walked through castles they did not build, not for themselves at least. They suffered famines from their taxation, losses from Nobles looking for 'servants' and deaths from neglectful watchers bringing plague. And yet, despite all of this, the Goblins remained loyal. They worshipped the ground Humans walked on and did their best to make their overlords happy- why, though? A prophecy. A prophecy that would lead to their fortune, not in wealth, but in land. After the [[Orc Revolution]], the thousands of deaths suffered by [[Koross]] led them to open hundreds of thousands of visas to those who wanted to move in. The Goblins had been pushed to extreme population density, and upwards of one million of the little hairy buggers moved north. Entire cities became dominated by them, and with their number all over, and the humans out numbered, they started a war with House Thaddeus that lasted a mere day- named as such. [[The One Day War]]. They broke their vassalization and earned their kingdom back, plus a little extra- the realm of [[Ramradga]] was born.
+
+## [[Kobolds]]-
+
+The Kobolds are a wild folk. They started off as feral beast-men in the forests, but with the advancement of civilization world-wide, many of their folk began hunting in the streets of cities and capitals. Feasting on vermin and pests that [[Humans]] and the like despised. Even [[Dwarves|Dwarven]] holds were breached by their little claws and persistent attitudes. Their arcane nature allowed them to adapt rapidly- growing to adopt the speech and behavior of their 'neighbors' quickly. The Kobolds had essentially silently invaded every last town in [[Koross]], and got away with it. They were useless for work, barely had any meat on their bones, and were only good for sleeping on a porch and hissing at strangers. Many families welcomed a Kobold or two into their homes, just because, well their plum cute as a button. Farmers value them, general good stores appreciate them, and cargo ships adore them. Today, Kobolds go [[The West|West]] with their friends, not owners. They grow deep bonds with those they spend time with, and would fight to the last for their friends.
+
+# [[The Terror Races]]
+
+## [[Lizardfolk]]-
+
+Hulking, armored-at-birth beast-men who keep to themselves and tend to their holy swamp, [[The Great Swamp|Moulugg]]. The Lizardfolk have grown hateful of the eastern weaklings who constantly exploit their home. The Lizardfolk homeland borders the kingdom of [[Moradesh]], who's [[Elves|Elven]] citizens seem *desperate* to destroy The Great Swamp with their incessant logging and destruction of the natural world. To this day, Lizardfolk and Elves are at each other's throats over their previous strife.
+
+## [[Risen Ones]]-
+
+Bones and tattered flesh, made walking every year by [[The Unfeathering]]. The Risen Ones are undead skeletons who are risen to answer [[The Calling]], though plenty still ignore it. The Risen Ones are only as old as the first Unfeathering, their memories of their last life are gone- family friends and all. All they have is each other, and sometimes even that isn't enough. Their only hope is to find what resurrected them, and find out what it wants from them.

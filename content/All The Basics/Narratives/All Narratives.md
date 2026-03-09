@@ -1,0 +1,13 @@
+---
+tags:
+  - Other
+---
+
+A list of all narratives currently available to read-
+
+### [[A Story Of Death And Revival]]-
+A man recounts the tale of his comrades rebirth after gruesome death.
+### [[Tribute]]-
+A group of adventurers give tribute to a clan of Bath'kah, and learn of the ancient, Old Empire of The West
+### [[Yonder, Beyond The Gate]]-
+Girtz Ribmangler dies, and sees beyond the veil before Amelia Revives him.
