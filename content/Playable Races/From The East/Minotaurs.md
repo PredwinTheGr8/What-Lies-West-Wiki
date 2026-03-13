@@ -3,6 +3,7 @@ tags:
   - Faction
   - Koross
   - History
+  - Minotaurs
 ---
 
 Legends say that from the wasted, volcanic forges of the [[Phrazmollograggra Mountains]], a god of beasts forged the Minotaurs, and sent them into the world to be its voice- its will. Minotaurs are accustomed to the heat of a forge, the smell of gunpowder, and the thrill of bloodshed. In the early days of [[Koross]], the Minotaurs were said to have ravaged the lands around their mountain valley. Hamlets, citadels and even entire armies that were built or wandered too close were subject to massive raids conducted by these 12 foot tall behemoths. 

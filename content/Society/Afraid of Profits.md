@@ -3,6 +3,10 @@ tags:
   - Other
   - History
   - DailyLife
+  - Humans
+  - Elves
+  - Catfolk
+  - Ratfolk
 ---
 ([[Build Togethers|346]], [[What Lies West]]?)
 

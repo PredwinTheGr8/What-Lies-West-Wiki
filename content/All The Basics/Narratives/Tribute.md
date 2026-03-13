@@ -5,7 +5,7 @@ tags:
   - Monster
   - Faction
 ---
-([[Build Togethers|348+349]], [[What Lies West]]?)
+[[Build Togethers|348+349]], [[index|What Lies West?]]
 
 The harsh, bitter winds of The Void Dunes rattle the weary bones of a group of adventurers- they have been travelling for a long while, searching specifically for this place. Among their number is a rare sight in the wastes of The West, a scholar of the Explorator's Guild, hoping to have a conversation with the locals of The Void Dunes.
 

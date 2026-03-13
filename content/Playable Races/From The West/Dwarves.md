@@ -3,6 +3,7 @@ tags:
   - Balphora
   - History
   - Faction
+  - Dwarves
 ---
 
 [[The West]] was their kingdom, the Dwarves say over and over again. Make no doubt, their citadels lay abandoned all across [[Balphora]], even in the deserts themselves. And so, again and again [[Sons of Y'zrold|The Sons of Y'zrold]], [[Great House of Horadrin]] and even some members of [[The Mightlongs]] argue that all other races, barring perhaps the Orcs and Goblins, should just turn around and leave.

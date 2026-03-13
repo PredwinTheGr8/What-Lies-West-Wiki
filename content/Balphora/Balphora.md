@@ -4,7 +4,7 @@ tags:
   - Location
   - BT
 ---
-([[Build Togethers|354]], [[What Lies West]]?)
+[[Build Togethers|354]], [[index|What Lies West?]]
 
 Balphora is the mapped region of the western continent, that's name has yet to be agreed upon as of yet. It borders the only entryway into [[The West]], accessible from the largest city in the world, [[The City of Wyrms]]. Desolate [[Dwarves|Dwarven]] holds, empty [[Orcs|Orcish]] bastions, and other, void cities are sprinkled throughout the region of Balphora. It seems that long, long ago many of the folk found in [[Koross]], across the [[Ocean Magnamous]], are originally from Balphora. Balphora, other than the ancient cities within its borders, is characterized by its vastly different ecosystems in its northern half. Dense, pine tree rainforests, monolithic ocean cliffsides and even a desert or two are all things you can find in Balphora's northern half.
 

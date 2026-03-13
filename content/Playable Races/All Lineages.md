@@ -1,6 +1,18 @@
 ---
 tags:
   - Other
+  - Catfolk
+  - Ratfolk
+  - Elves
+  - Humans
+  - RisenOnes
+  - Lizardfolk
+  - Minotaurs
+  - Centaurs
+  - Dwarves
+  - Orcs
+  - Kobolds
+  - Goblins
 ---
 Within the world of What Lies West (?), many lineages can be found throughout both [[Koross]] and [[Balphora]]. From the western coast of Koross- the Hills of Horadrin, to the borders of [[Hivewaste]] at the far east, there are numerous peoples that make their homes within every corner of the world, so who are they?
 

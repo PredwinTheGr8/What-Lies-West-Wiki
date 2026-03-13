@@ -5,7 +5,7 @@ tags:
   - Location
 ---
 
-(303, What Lies West?)
+[[Build Togethers|303]] [[index|What Lies West?]]
 
 On the eastern coast of [[Balphora]], in the territories dominated by [[The Waywards]] there lies an inconspicuous wee forest, that contains within a bounty of mushrooms and fruits ripe for foraging. But alas, for any who go into these woods without permission from its master will meat a most grim fate- for they will come face to face with that master of the forest- Morgor.
 

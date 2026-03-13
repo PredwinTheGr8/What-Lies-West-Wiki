@@ -2,7 +2,7 @@
 tags:
   - Narrative
 ---
-([[Build Togethers|396]], [[What Lies West]])
+[[Build Togethers|396]], [[index|What Lies West?]]
 
 It was cold.
 

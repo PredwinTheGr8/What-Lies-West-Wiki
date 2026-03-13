@@ -3,6 +3,7 @@ tags:
   - Balphora
   - History
   - Faction
+  - Orcs
 ---
 
 Legends say that the orcs were created from foul sorceries, that their existence is built on black magic, and that they are inherently evil. For as long as the Orcs can remember, they have been oppressed by [[The Plain Three]] and forced to work as slaves- they don't recall their own origins, nor their history at all- all of it being lost at some point so long ago even it goes unremembered.

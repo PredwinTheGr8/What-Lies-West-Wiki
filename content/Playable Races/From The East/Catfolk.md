@@ -3,6 +3,7 @@ tags:
   - Faction
   - Koross
   - History
+  - Catfolk
 ---
 
 The Catfolks' history is full of strife. Their history begins in the far east, across [[The Great Swamp]] in the southeastern lands of [[Harush]]. Here, food is difficult to come by and must last for as long as possible. This pushed the Catfolk to cooking extremes: making as much use of a carcass as they could, and trying their best to make it taste good.

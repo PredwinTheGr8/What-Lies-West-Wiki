@@ -5,7 +5,7 @@ tags:
   - BT
   - History
 ---
-([[Build Togethers|316]], [[What Lies West]]?)
+[[Build Togethers|316]], [[index|What Lies West?]]
 
 Immolesh is the spiritual leader of the [[Minotaurs]], though his name has not always been this. The Minotaurs had been struggling to survive when Khail was born, the great wall The [[Great House of Horadrin]] had made a decade prior choking out their only true food source. The [[Phrazmollograggra Mountains]] had choked out the soil- with their constant ash fall making it nigh impossible to grow anything.
 

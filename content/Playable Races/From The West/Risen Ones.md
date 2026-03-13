@@ -3,6 +3,7 @@ tags:
   - Koross
   - Balphora
   - History
+  - RisenOnes
 ---
 
 When [[The Calling]] rang out across [[The Wider World]], [[Koross]] included, many dropped their jobs and sought out this mighty 'song' of [[The West]]. For a short time, mortals all over Koross from the edge of [[The Northern Wastes]] to [[Harush]] and [[The Great Swamp]] flocked to the docks against the [[Ocean Magnamous]]. But, a month or so after the ships first set sail, a time of great terror befell the entirety of the eastern factions.

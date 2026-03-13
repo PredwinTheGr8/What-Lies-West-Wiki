@@ -16,3 +16,5 @@ They are as follows:
 [[Generous Harush]]: The very world itself, Harush is the Patron deity of the [[Catfolk]], and also is the namesake of their home- [[Harush]].
 
 [[Whallad The Whimsical]]: God of delight, joy, and comedy- Whallad is not widely worshipped, though still widely recognized as a being who just wants to make folk smile... sometimes at the [[Heckling 101|expense of others]].
+
+[[Mortacious, Father of Curses]]: The god of arcane curses, Mortacious is a vilified god that mortals see as innately evil- and those who worship him, willingly or not, as damned. Mortacious is also sometimes seen as the god of darkness- being in direct opposition to [[Orpheus]].

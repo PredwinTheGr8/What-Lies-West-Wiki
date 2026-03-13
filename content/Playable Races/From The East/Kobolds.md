@@ -3,6 +3,7 @@ tags:
   - Koross
   - Faction
   - History
+  - Kobolds
 ---
 
 Kobolds have been around since the beginnings of Civilization as a whole. Early in [[Koross|Korosian]] history [[Humans]] told stories of tiny lizard folk hiding in the forests and caves. Many didn't believe these stories, but there were still some who never stopped looking for them, eager to prove their existence. The Kobolds were indeed eventually proven to exist, but not from the discoveries of an explorer, nor the collected hide of a hunter- but instead from the shock and awe of a man on his way from the fields, screaming in terror at a child sized bi-pedal lizard eating a rat in an alleyway.

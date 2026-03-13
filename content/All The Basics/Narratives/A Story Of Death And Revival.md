@@ -3,7 +3,7 @@ tags:
   - Narrative
   - BT
 ---
-([[Build Togethers|335]], What Lies West?)
+[[Build Togethers|335]], [[index|What Lies West?]]
 
 *The vet and the rookie sit at a tavern table, enjoying a cool pint of Bunker's finest. The vet looks at their leader- "The Phoenix" and speaks up to his fresh colleague.*
 
