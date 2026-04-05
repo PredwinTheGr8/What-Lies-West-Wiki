@@ -1,0 +1,6 @@
+
+Mortacious is the [[gods|god]] of [[Magic|arcane]] curses, darkness and duplicity. If stories are to be believed, Mortacious followed the path of godhood [[Orpheus]] took himself. Though where Orpheus strived for good and lawful choices that benefited the world, Mortacious instead walked a path of wickedness and lies. He gathered the masses he was meant to rule over and in a single night sacrificed them all under a full [[The Many Named Moon|moon]].
+
+He was granted godhood, as a reward for his carnage. But he was not granted the same all powerful might as Orpheus- his trickery and malice gave him a blighted form with a million curses. His power wanes in daylight, and his followers skulk in sewers. A Wretched god forced to hide for his crimes. If his power over darkness is to be taken as true, then he is in direct opposition to Orpheus- though some canons consider them twin cooperative forces, and others a more intimate coupling. Whatever the case Mortacious bestows his followers with his curses- whether they willingly worship him or not.
+
+Mortacious communes with followers by 'granting' them curses related to his wishes. Perhaps his power is too weak to commune in a more traditional manner- or his treachery extends even to those most loyal to him. Trust not the darkness, or those riddled with its mark.

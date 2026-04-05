@@ -6,7 +6,7 @@ tags:
   - TheWest
   - Magic
 ---
-([[Build Togethers|360]], [[What Lies West]]?)
+([[Build Togethers|360]], [[index|What Lies West]]?)
 
 "Woah. That's the first thing you'll say, or think when you see them for the first time. Calling them 'mountains' might just be the greatest insult in the world- they're not mountains, their impassable diamond stones that choke the sky- they block the clouds, they smite the sun. The [[Phrazmollograggra Mountains]] are the tallest mountains only because these aren't such a petty thing as a 'mountain."
 

@@ -4,7 +4,7 @@ tags:
   - History
   - TheWest
 ---
-([[Build Togethers|338]], [[What Lies West]]?)
+([[Build Togethers|338]], [[index|What Lies West]]?)
 
 Clearly, before [[The Unfeathering]] and [[The Calling]] brought people to [[Balphora]], there was once a glorious kingdom out in the sands, perhaps it wasn't even a desert then. The average person who ventures west is someone who has nothing to lose back across the [[Ocean Magnamous]] in [[Koross]], they have no interest in the logistics and history this ancient empire had. But, among their number are scholars, archivists and professors who all look at the vast desert and say- 'Hmmmm...'
 

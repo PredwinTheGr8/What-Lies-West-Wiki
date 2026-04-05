@@ -3,7 +3,6 @@ tags:
   - TheWest
   - BT
 ---
-
 (298, WLW)
 
 When venturing [[The West]] one might find themselves in numerous deadly situations- running from a monster, hiding from raiders, or simple and notorious dehydration. There are hundreds of ways to die in The West, but barely any of them can *truly* be predicted reliably long before they occur. But one among these 'signs' is bizarrely obvious, antitheses to every other omen that could possibly present itself to an adventurer- The Bells and Whistles.

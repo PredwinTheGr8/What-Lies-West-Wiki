@@ -69,7 +69,7 @@ The Kobolds are a wild folk. They started off as feral beast-men in the forests,
 
 ## [[Lizardfolk]]-
 
-Hulking, armored-at-birth beast-men who keep to themselves and tend to their holy swamp, [[The Great Swamp|Moulugg]]. The Lizardfolk have grown hateful of the eastern weaklings who constantly exploit their home. The Lizardfolk homeland borders the kingdom of [[Moradesh]], who's [[Elves|Elven]] citizens seem *desperate* to destroy The Great Swamp with their incessant logging and destruction of the natural world. To this day, Lizardfolk and Elves are at each other's throats over their previous strife.
+Hulking, armored-at-birth beast-men who keep to themselves and tend to their holy swamp, [[The Great Swamp|Moulugg]]. The Lizardfolk have grown hateful of the eastern weaklings who constantly exploit their home. The Lizardfolk homeland borders the kingdom of [[Moradesh]], who's [[Elves|Elven]] citizens seem *desperate* to destroy The Great Swamp with their incessant logging and destruction of the natural world. To this day, Lizardfolk and Elves are at each other's throats over their previous strife. They call themselves the "Kellissk."
 
 ## [[Risen Ones]]-
 

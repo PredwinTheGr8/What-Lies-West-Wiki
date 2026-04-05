@@ -19,7 +19,7 @@ Man-Fishers earn their name from that harpoon- a barbed, bony instrument that mo
 
 Man-Fishers are unmatched in camouflage- so adapted to hiding that even scrying [[Magic|magic]] cannot detect them. The most daunting, though, of their adaptations is their mastery of pyromancy. All stories of Man-Fishers involve some sort of explosion before the harpoon struck a party member. Scholars, such as Ashkram, believe that this is the complex use of magic in the form of a fireball spell being used to propel the harpoon.
 
-Adventurers discount this, as many monsters that use magic cannot use such powerful spells, and not as quickly back to back as a Man-Fisher would have to. They also say things along the line of "If it can cast fireball, why doesn't is just use that to kill us?" Admittedly, that makes a good case against the Man-Fisher mastering pyromancy. Nonetheless, scholars stand by their decision.
+Adventurers discount this, as many monsters that use magic cannot use such powerful spells, and not as quickly back to back as a Man-Fisher would have to. They also say things along the line of "If it can cast fireball, why doesn't it just use that to kill us?" Admittedly, that makes a good case against the Man-Fisher mastering pyromancy. Nonetheless, scholars stand by their decision.
 
 Combat against a Man-Fisher is decided in seconds. If the Man-Fisher skewers and reels a party member away, the monster will flee into the dark undergrowth of the [[Weeping Titans]]. If the harpoon misses, it may try again unless the connecting tendon is cut away, when it will once more retreat immediately. 
 
