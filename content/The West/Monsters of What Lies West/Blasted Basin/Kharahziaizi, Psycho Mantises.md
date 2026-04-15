@@ -19,7 +19,7 @@ tags:
 - Agitated Chitterbacks in the area
 - Idle Ossuary Titans
   
-Kharahziaizi are large, insectoid [[monsters]] of [[The West]] that reside solely within [[Blasted Basin|The Blasted Basin]], they appeared suddenly after the arrival of [[The Annihilator]] two years ago. Kharahziaizi, or their common name 'psycho mantises,' are twelve foot long, brown-green mantids with large, alchemically reinforced forceps lined with steel, and twelve, densely muscled legs. Mantids, what I will call them to avoid headaches, are ambush hunters that rely on prey treading close before they strike, living largely sessile lives.
+Kharahziaizi are large, insectoid [[monsters]] of [[The West]] that reside solely within [[Blasted Basin|The Blasted Basin]], they appeared suddenly after [[The Annihilator]] destroyed The Hollow Citadel. Kharahziaizi, or their common name 'psycho mantises,' are twelve foot long, brown-green mantids with large, alchemically reinforced forceps lined with steel, and twelve, densely muscled legs. Mantids, what I will call them to avoid headaches, are ambush hunters that rely on prey treading close before they strike, living largely sessile lives.
 
 Their aforementioned steel bladed arms are naturally made at birth- being an innate and uncontrollable use of alchemy to enhance themselves. This is evidence of artificial creation- that and their sudden appearance in the Basin, of course. Mantids will not pursue prey far once roused, preferring to keep their energy rather than waste it on something far faster and less clumsy than themselves. If prey has been significantly wounded, however, they will slowly pursue and wait for the monster, or adventurer, to succumb to blood loss.
 

@@ -84,5 +84,4 @@ A unity between [[Catfolk]], [[Ratfolk]], [[Kobolds]] and other beast races that
 - [[The Waywards]]:
 A group of bandits, vagabonds and brigands who fled to [[The West]] after their crimes caught up with them in [[Koross]]. While some of them may have been falsely charged, and most of them *are* good people, one should still watch their purse when walking through their cities like [[Three Purses]] and [[Freestuff]].
 
-- [[Rvestravough]]:
-The south-living peoples near the [[Polar Gates|Polar Gate]] of frost. During the [[Orc Revolution]] they accompanied their ancient companions, the [[Ogres]] in fighting for the Orc's freedom. While mostly [[Humans]] reside within Rvestran cities, after the Revolution's end other lineages found their tact and loyalty to old bonds appealing, and many immigrants made their way south. Though, the violence and devastation they wrought even against the giant [[Minotaurs]] has given them a grim reputation as marauders to the northerners and they have been largely cut off as of late- meaning some communities have been forced to begin raiding the lands of The [[Church of Orpheus]], further vilifying them.
+- [[Cresthram]]:
