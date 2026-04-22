@@ -22,3 +22,5 @@ Sometimes, an Ossuary Leech will be displaced from its carcass host- whether it 
 An attached leech will crawl slowly to the neck or cranium of a creature, being careful to not wake their host by accidentally spiking them or disturbing their ears. Once they locate a major artery, they will immediately release their flesh net and burn a hole through flesh to get to it. On most wild Monsters, this is surely fatal. On most adventurers, though, a simple cast of healing serves to close the wound and stop any major damage from occurring. The burning sensation, though, persists for a great time. Described as an immeasurable heat that will not fade. If a skilled enough Cleric is present, a lesser restoration spell can instantly alleviate the spell. Otherwise, a fortnight of constant burning is in store for any survivors.
 
 Ossuary Leeches are preyed upon by juvenile [[Ossuary Titans]], [[Bone Dogs]], [[Pricks]], [[Gnolls]], [[Maws]], [[Arcanosaurs]], [[Slimes]], [[Rot-winged Wranglers]], and young [[Dunewakers]]. In turn, Ossuary Leeches can easily catch any of these monsters off guard and return the favor.
+
+![[Ossuary Leeches.png]]

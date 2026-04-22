@@ -56,10 +56,6 @@ A great rift of stone, The 'Godless Maw' is a place that emits arcane dread and 
 #### [[Lying Veld]]- (**16**)
 
 A vast meadow of flowers and trees, at least when the curse effects you- The Decimated Veld is a cursed prairie, with ancient, nightmarish monsters walking in plan sight so long as the illusion takes hold on you. Was that a bag of coins you picked up, or is it the egg sac of some million-eyed spider? Second guess everything.
-
-#### [[Colossal Rift]]- (**17**)
+#### [[Colossal Rift]]- (**18**)
 
 An [[Magic|arcane]] place dominated by a great eye in the sky- The Colossal Rift is believed to be the furthest West of all regions, at least so far. The Colossal Rift, the namesake of the region, is somewhat present no matter where you are in The West, but always as a faint outline in the distance that changes position every time you look away. But here, in this region, it is blatant, opaque and always staring directly at you- sicking its [[Monsters|monstrous]] minions at you to rend your flesh, or so it is speculated.
-#### [[Limitless Corridors]]-
-
-A place heavily corrupted by [[Eldritch Energy]], the Limitless Corridor is comprised of... apparitions, for lack of a better word, of buildings. These structures are not real, though one may perceive themselves interacting with the furniture within, and climbing up stairs throughout, it is not real. There are no [[Monsters]] in this region of [[The West]], though the true threat is loosing your mind in this palace of illusion. It's best to turn around and leave... if you can find out what classifies as behind you here.

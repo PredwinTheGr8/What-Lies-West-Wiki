@@ -31,3 +31,5 @@ Grolles show several weaknesses that can be exploited to ease along their slaugh
 - Cannot see creatures that remain perfectly still
 
 Grolles will attempt to prey upon anything they find, and are preyed upon by [[Arcanosaurs]], [[Thunderjaws]], [[Killfreaks]], and most other large Monsters. [[The Knights in Yellow]] do not react to the presence of Grolles, nor vise versa- though [[Chromatic Sentinels]] will obliterate any Grolles that enter their chambers.
+
+![[Grolle.png]]

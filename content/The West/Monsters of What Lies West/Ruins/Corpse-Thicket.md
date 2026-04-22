@@ -8,6 +8,8 @@ tags:
 
 "We had lost her a while back, she wandered away to scout some ruins. We looked for weeks, back and forth from [[The City of Wyrms|The City]]. Finally, we had found a ruin near where she said she'd gone to, inside of it was this awful thorn-covered bramble. We looked deep into those ruins, and we found her- suspended in the air by root-tendrils, a gaunt carcass but it was her- her armor, her patchy, red hair... Then... she looked up at us, hollow eyes filled with green, pulsing tumors. Gods preserve us, I couldn't make it back to the City fast enough, I was too [[Cardinal Sickness|Sick]] to move faster than I had already been. It felt like ages before I was safe, before everything stopped itching."
 
+-Markus Krauler after his first ever expedition, [[Adventurers|adventurer]]
+
 ### [[Monster Callsigns|Callsigns]]-
 
 - Ruins Locale
@@ -30,8 +32,4 @@ Corpse Thicket shows few weaknesses, its best to avoid it altogether-
 - Despite assumptions, Corpse-Thicket is resilient to flames due to a massive amount of moisture stored in the vines' flesh.
 
 Corpse-Thicket is preyed upon by [[Arcanosaurs]], which are immune to its infection.
-
-### Related Notes-
-
-[[Monsters]]
-[[The Knights in Yellow]]
+![[Corpse Thicket.png]]

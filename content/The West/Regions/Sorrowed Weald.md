@@ -16,13 +16,4 @@ Indeed the [[Monsters]] of The Sorrowed Weald are perhaps the best at catching [
 
 The monsters that are found within are as follows-
 
-- [[Man-Fishers]] (Unique)
-- [[Creeping Toads]] (Unique)
-- [[Arcanosaurs]]
-- [[Walking Bastions]] (Unique)
-- [[Weeping Sprites]] (Unique)
-- [[Ragged Damsels]] (Unique)
-- [[Ossuary Titans]] (Rarely)
-- [[Dryads]] (Unique)
-- [[Maws]]
-- [[Killfreaks]] (Rarely)
+- [[Man-Fishers]] stalk parties and pick off lone members. Unique to the region.

@@ -24,3 +24,5 @@ Wingplague is not a strong illness unless it can take root- chewable tablets mad
 When facing a Plaguewing, the beasts tend to use their mouths or frontal wings to slash and bite foes. Keeping towards the rear or using ranged weaponry works best to dispatch a Plaguewing or force it into fleeing- though if one can fell such a beast a sac in their chest that contains the liquid form of Wingplague can be used to make further antidotes and thus sell for a high price.
 
 Plaguewings prey upon all monsters of [[The West]], and will often attempt to eat each other as adults in an effort to keep their territories. They fight for dominion with the other two 'wyvern' species of the west- [[True Wyverns]] and [[Charnel Wyverns]], and are sometimes, rarely, slain by [[Bolide Birds]].
+
+![[Plaguewing.png]]
