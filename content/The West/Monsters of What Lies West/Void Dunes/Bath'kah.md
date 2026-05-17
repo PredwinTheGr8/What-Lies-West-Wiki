@@ -22,4 +22,4 @@ The first [[Adventurers|adventurers]] to come back, alive at least, from a Bath'
 
 If one is to find themselves in combat against one or more Bath'kah, evasive attacks and ranged weaponry will serve the best to avoiding instant death at the hands of their warclubs, or just their normal hands, really.
 
-The Bath'kah keep domestic [[Void Bisons]] for food, and hunt down [[Behemoths]] on occasion. The Bath'kah are rarely preyed upon, as most creatures in [[Void Dunes|The Void Dunes]] fear them.
+The Bath'kah keep domestic [[Void Bisons]] for food, and hunt down [[Behemoths]] on occasion. The Bath'kah are rarely preyed upon, as most creatures in [[Void Dunes|The Void Dunes]] fear them, though if any is to be the most likely to kill a Bath'kah it would be a Behemoth.
