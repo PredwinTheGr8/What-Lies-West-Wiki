@@ -18,7 +18,7 @@ Suddenly, faster than the blink of an eye, a silent movement occurred behind him
 
 As soon as he laid eyes upon it, sound returned. The winds blew with great speed, the grass scraped against itself, and the massive gate held within it muffled chimes.
 
-"Hello?" Girtz stared up at the gate. Taking a few steps back to process just how massive this thing truly was. Finally, after several agonizing seconds of wait, the Gate went ajar. Girtz felt an overwhelming pressure it him- a wave of dark, invisible miasma that punched him in the soul itself. He wanted to run, but his legs no longer moved.
+"Hello?" Girtz stared up at the gate. Taking a few steps back to process just how massive this thing truly was. Finally, after several agonizing seconds of wait, the Gate went ajar. Girtz felt an overwhelming pressure hit him- a wave of dark, invisible miasma that punched him in the soul itself. He wanted to run, but his legs no longer moved.
 
 Each chime of the bell inside, he felt closer and closer to death. Or was he already dead? Did Amelia's spell not work? Was this-
 
