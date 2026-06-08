@@ -2,6 +2,7 @@
 tags:
   - Faction
   - History
+  - Koross
 ---
 ([[Build Togethers|430]], [[index|What Lies West?]])
 

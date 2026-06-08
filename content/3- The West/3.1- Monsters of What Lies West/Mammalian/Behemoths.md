@@ -8,7 +8,7 @@ tags:
 ---
 ([[Build Togethers|468]], [[index|What Lies West?]])
 
-"Vorpal, harrowing howls careen 'crost umbral sand and are then carried through the body- inflicting terror, *turmoil*. Ware, ye who treads [[Void Dunes|The Dunes of The Void]], for its rulers are not the [[Bath'kah]]."
+"Vorpal, harrowing howls careen 'crost umbral sand and are then carried through the body- inflicting terror, *turmoil*. Ware, ye who treads [[The Void Dunes|The Dunes of The Void]], for its rulers are not the [[Bath'kah]]."
 
 Ashkram Who Speaks Strange, [[Scholars|scholar]] and [[Adventurers|adventurer]]
 
@@ -23,7 +23,7 @@ Ashkram Who Speaks Strange, [[Scholars|scholar]] and [[Adventurers|adventurer]]
 - Changed [[Void Bisons|Void Bison]] behavior- tighter formations, frequent danger calls
 - Dead [[Bath'kah]] patrols or camps
   
-Behemoths are [[Legendary Monsters]] of [[The West]] found naturally within [[Void Dunes|The Void Dunes]], though as of two years ago they have been seen in other [[All Regions of The West|regions]] such as [[Blasted Basin|The Basin]] and other, more hospitable regions. Behemoths are near the top of the entire food chain of The West, being among the largest carnivores present in the desert and being capable of manipulating magic at will. Behemoths have earned a great deal of infamy among adventurers- with many caravans destined for the [[Bath'kah]] being taken or destroyed by a wayward Behemoth. 
+Behemoths are [[Legendary Monsters]] of [[The West]] found naturally within [[The Void Dunes|The Void Dunes]], though as of two years ago they have been seen in other [[All Regions of The West|regions]] such as [[The Blasted Basin|The Basin]] and other, more hospitable regions. Behemoths are near the top of the entire food chain of The West, being among the largest carnivores present in the desert and being capable of manipulating magic at will. Behemoths have earned a great deal of infamy among adventurers- with many caravans destined for the [[Bath'kah]] being taken or destroyed by a wayward Behemoth. 
 
 Visually, Behemoths do not resemble any other living creature, though perhaps being passingly com-parable to the wooly rhinos of [[Balphora]]. Behemoths are twenty foot tall, sextapedal mammalians with pitch black fur that drags down to their feet. This fur is incredibly dense and can absorb a great deal of physical and metaphysical force- notably deflecting any electromancy right back at the attacker. The fur covers most of the Behemoths body, save for their face and their tail. The head of a Behemoth is comprised of numerous circular patterns- with eight eyes, three nostrils, and one octagonally symmetrical mouth at the center. This mouth is a large sphincter that unfurls to reveal a massive appendage covered in spiny teeth, and can further extend to reveal two rows of canines and incisors. The first layer of teeth is used to bludgeon and lacerate prey, while the second layer is used to consume the stomach and then other offal of their victim.
 

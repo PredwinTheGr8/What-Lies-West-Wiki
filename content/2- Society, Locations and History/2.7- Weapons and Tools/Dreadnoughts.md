@@ -3,6 +3,7 @@ tags:
   - Automaton
   - History
   - Magic
+  - Monster
 ---
 "Not all monsters are born of [[The West]]. Many are of course, but some- some are made by man, set loose on hundreds by man, and then discarded to rot by man. Dread those whose war horns drown out musket fire most- for their fire burns hottest."
 

@@ -6,9 +6,9 @@ tags:
 ---
 ([[Build Togethers|374]], [[What Lies West]]?)
 
-"Like the foulest poison- to flesh and mind and spirit- a transparent ichor of mutation, agony, and undeath. The blue-cloaks say it isn't an acid, but a creature, a small, insignificant thing that eats as a swarm... Either way, be careful what you drink in [[Blasted Basin|The Blasted Basin]]."
+"Like the foulest poison- to flesh and mind and spirit- a transparent ichor of mutation, agony, and undeath. The blue-cloaks say it isn't an acid, but a creature, a small, insignificant thing that eats as a swarm... Either way, be careful what you drink in [[The Blasted Basin|The Blasted Basin]]."
 
-Blightwater is a hazard of [[The West]]- being almost completely indistinguishable from drinking water. Blightwater can only be found within the water-filled craters of [[Blasted Basin|The Blasted Basin]], where many adventurers fall to its horrific attack on the body. When ingested, Blightwater eats through a victims flesh and sends massive amounts of [[Magic|mana]] into their bodies, causing mutations- specifically turning most victims into [[Ghouls]], though partial 'survivors' may instead become [[Gnolls]].
+Blightwater is a hazard of [[The West]]- being almost completely indistinguishable from drinking water. Blightwater can only be found within the water-filled craters of [[The Blasted Basin|The Blasted Basin]], where many adventurers fall to its horrific attack on the body. When ingested, Blightwater eats through a victims flesh and sends massive amounts of [[Magic|mana]] into their bodies, causing mutations- specifically turning most victims into [[Ghouls]], though partial 'survivors' may instead become [[Gnolls]].
 
 The horrific damage done by Blightwater often results in a victims abdomen becoming completely consumed, leaving an empty shell of a person behind as the Blightwater sloughs out and crawls back to the nearest source of water. To ensure you aren't about to take a hearty gulp of poison, looking for several key characteristics of Blightwater poisoning can save a man from an early grave:
 

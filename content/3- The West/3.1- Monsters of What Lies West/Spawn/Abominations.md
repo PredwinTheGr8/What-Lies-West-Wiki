@@ -4,7 +4,7 @@ tags:
   - Magic
   - History
 ---
-"We were in a quite- *dead quiet*- sunken ruin within [[Forlorn Graveyard|The Forlorn Graveyard]]. Ripped apart suits of armor, ravaged corpses of [[Monsters|monsters]], and the stench of decay and dung. We entered a large chamber with a large stone in its center. Once we got close, the stone took a deep breath and rose up- a writhing, heaving mass of tendrils and teeth. It screamed with such force that we went deaf for a moment. Twenty three reduced to five in three minutes."
+"We were in a quite- *dead quiet*- sunken ruin within [[The Forlorn Graveyard|The Forlorn Graveyard]]. Ripped apart suits of armor, ravaged corpses of [[Monsters|monsters]], and the stench of decay and dung. We entered a large chamber with a large stone in its center. Once we got close, the stone took a deep breath and rose up- a writhing, heaving mass of tendrils and teeth. It screamed with such force that we went deaf for a moment. Twenty three reduced to five in three minutes."
 
 -Olluk The Bull, [[Adventurers|adventurer]]
 
@@ -16,4 +16,4 @@ Abominations are highly territorial, and therefor luckily often reside alone in 
 
 When in combat against an Abomination, staying out of reach and using ranged weaponry like bows or flintlocks works best to avoiding becoming a red paste. If enough damage is sustained, an Abomination may attempt to run and hide, but you should not follow it- Abomination dens are heavily corrupted by [[Eldritch Energy]], and are deadly to the flesh of man just by proximity.
 
-Abominations are at the top of the food chain where they appear, even in regions such as [[Void Dunes|The Void Dunes]] where they can sometimes be seen looming over the corpses of several [[Bath'kah]] who thought their might was better.
+Abominations are at the top of the food chain where they appear, even in regions such as [[The Void Dunes|The Void Dunes]] where they can sometimes be seen looming over the corpses of several [[Bath'kah]] who thought their might was better.

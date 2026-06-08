@@ -2,6 +2,7 @@
 tags:
   - BT
   - DailyLife
+  - Other
 ---
 ([[Build Togethers|402]], [[index|What Lies West]]?)
 

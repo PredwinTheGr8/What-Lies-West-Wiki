@@ -2,6 +2,7 @@
 tags:
   - Character
   - History
+  - Koross
 ---
 "Wars were fought. Cities were burned. Thousands were hung. Even more saw their own corpse as their head flew away after a guillotine slash. Countries folded, castles crumbled and lords kneeled. Thus was the rule of Iradeen. Cruel."
 

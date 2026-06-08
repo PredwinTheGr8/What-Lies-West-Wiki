@@ -15,7 +15,7 @@ tags:
 - Chirps
 - Rock Cairns
 
-Goodfellows are small, beloved [[Monsters]] of [[The West]] that reside within both [[True Desert|The True Desert]] and [[Shattered Divide|The Shattered Divide]], though they remain incredibly rare in the former. Goodfellows, named by adventurer Markus Krauler for their cheering appearance, are small, two foot tall insects with hardened, buckler shaped shells covering them like a parasol. They possess blue-green shells that shine under the light of the Tyrannical Sun. Their little legs poke just shyly out from their shells, their eyes small beacons of white light that piece the fog of their common home.
+Goodfellows are small, beloved [[Monsters]] of [[The West]] that reside within both [[The True Desert|The True Desert]] and [[The Shattered Divide|The Shattered Divide]], though they remain incredibly rare in the former. Goodfellows, named by adventurer Markus Krauler for their cheering appearance, are small, two foot tall insects with hardened, buckler shaped shells covering them like a parasol. They possess blue-green shells that shine under the light of the Tyrannical Sun. Their little legs poke just shyly out from their shells, their eyes small beacons of white light that piece the fog of their common home.
 
 Goodfellows are drawn to the heavy footfalls of well equipped adventurers. They run up to their feet with alarming, but whimsical speed before tilting their heads up to ensure the adventurer is, indeed, well armed. If a Goodfellow isn't happy with what they see, they will make several low clicks before running back off to their crevice, and the adventurer won't see any more Goodfellows until they take a shower, suggesting some kind of pheromone is at play.
 
@@ -25,7 +25,7 @@ Eventually, the scouting Goodfellows will return with one of two sounds. One, a 
 
 The former noise, however, will cause the Goodfellows to begin running off in the direction the scouting bugs came from. They will frequently turn back to ensure that their party-of-choice is still following them as they guide them acrost the metal bridges and past the towering monoliths of graviturgy glyphs.
 
-A wise party will follow a group of Goodfellows, as it means nothing short of fortune. The Goodfellows will guide the party to the den of a [[Wyrmlings|Wyrmling]]. The entrances are usually on the underside of the floating islands within [[Shattered Divide|The Shattered Divide]], making them impossible for the average party to find. But the Goodfellows are good for finding smaller caves that happen to lead straight to a den. Saving the specifics for their own archive, a Wyrmlings den is often full of ancient relics and gold. Needless to say the parts of a Wyrmling themself sell for a high price to alchemists.
+A wise party will follow a group of Goodfellows, as it means nothing short of fortune. The Goodfellows will guide the party to the den of a [[Wyrmlings|Wyrmling]]. The entrances are usually on the underside of the floating islands within [[The Shattered Divide|The Shattered Divide]], making them impossible for the average party to find. But the Goodfellows are good for finding smaller caves that happen to lead straight to a den. Saving the specifics for their own archive, a Wyrmlings den is often full of ancient relics and gold. Needless to say the parts of a Wyrmling themself sell for a high price to alchemists.
 
 Sometimes, its a false lead though, and a group of Goodfellows will lead to an empty, previously inhabited but already looted cave. Still, sometimes a relic or two has been left behind.
 

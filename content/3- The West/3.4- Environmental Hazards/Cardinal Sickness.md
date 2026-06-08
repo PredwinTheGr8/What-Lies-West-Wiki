@@ -3,6 +3,7 @@ tags:
   - History
   - Magic
   - BT
+  - TheWest
 ---
 [[Build Togethers|454]], [[index|What Lies West?]]
 
@@ -16,7 +17,7 @@ One such magic commonly referred to *as* Cardinal Sickness is [[Mutants|mutation
 
 Another symptom is what is referred to by [[scholars]] as "occident trauma". This arcane blight occurs when [[Adventurers]] pass back underneath [[The Onyx Archway]] after a long trek. Symptoms include vomiting, dizziness, low disease resistance, decreased hunger, a sense of vertigo, abdominal pains, ear bleeding, hallucination, dehydration, and a greatly heightened weakness to all forms of magic- namely including the powers be within The West. These effects will disappear over time, with it being recommended to wait a week before making another expedition. Nobody has died, thus far, from occident trauma.
 
-Finally, the most common symptom associated with Cardinal Sickness. It has many names, all from the many different cultures that go Westward. Wayfarer's Blight, Kmazzkaz, Orienting Troubles- all meaning one thing in short: losing your way. The West does not follow standard navigational rules. The stars are not the same as outside, the sun moves when you blink- even the desert's very own omnipresent landmark, [[Colossal Rift|The Colossal Rift]], will not remain in the same place between glances. Mountains will change shape, dunes will shift beneath a boot, lakes will vanish in a second. The West does not want to be navigated, not in the slightest. Whether this is some breakable spell, or an insurmountable curse is unknown. Some blame [[The Annihilator]], others [[Urzuwrath The Fallen|Urzuwrath]], some even look to the [[Seamsters]] as the architects of this supernatural cognitive defector.
+Finally, the most common symptom associated with Cardinal Sickness. It has many names, all from the many different cultures that go Westward. Wayfarer's Blight, Kmazzkaz, Orienting Troubles- all meaning one thing in short: losing your way. The West does not follow standard navigational rules. The stars are not the same as outside, the sun moves when you blink- even the desert's very own omnipresent landmark, [[The Colossal Rift|The Colossal Rift]], will not remain in the same place between glances. Mountains will change shape, dunes will shift beneath a boot, lakes will vanish in a second. The West does not want to be navigated, not in the slightest. Whether this is some breakable spell, or an insurmountable curse is unknown. Some blame [[The Annihilator]], others [[Urzuwrath The Fallen|Urzuwrath]], some even look to the [[Seamsters]] as the architects of this supernatural cognitive defector.
 
 Whatever the case, for as long as we have wondered What Lies West, the Cardinal Sickness has made sure we never truly find out our answer. A question without answer, without question. Poetic in a way, though as days drag on I ask a new question, a question I'm sure many have also wondered to themselves ever since that day two years ago when our streets were set ablaze with golden flame.
 

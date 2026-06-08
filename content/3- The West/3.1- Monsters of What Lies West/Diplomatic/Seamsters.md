@@ -43,7 +43,7 @@ Back to Amelia. Her and her companions first made contact with Junibell either t
 
 It should be noted that Amelia had already gotten into the practice of quoting at this point. Regardless, this is obviously a reference to the active destruction occurring at the time within the city. This "eye of oblivion" is likely to be The Annihilator itself.
 
-Amelia was putting her notepad back inside of her satchel when a bundle of [[Mire Weed]] she had harvested inside of [[Blasted Basin|The Blasted Basin]] fell out and rolled to the feet of the Seamstress. Amelia went to retrieve it but the creature made a noise she had never heard, a sort of 'purr' she describes it. The creature picked up the Mire Weed and ground it into a rough paste, before putting the mixture onto a gash on its thorax. Followed with the below quote, partially obstructed because Amelia had to take her notebook back out again.
+Amelia was putting her notepad back inside of her satchel when a bundle of [[Mire Weed]] she had harvested inside of [[The Blasted Basin|The Blasted Basin]] fell out and rolled to the feet of the Seamstress. Amelia went to retrieve it but the creature made a noise she had never heard, a sort of 'purr' she describes it. The creature picked up the Mire Weed and ground it into a rough paste, before putting the mixture onto a gash on its thorax. Followed with the below quote, partially obstructed because Amelia had to take her notebook back out again.
 
 "-Thus the artist gleams with joy at her connoisseurs. She waves unto them and assures that her work will always be beautiful for them."
 

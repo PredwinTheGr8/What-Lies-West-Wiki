@@ -2,6 +2,7 @@
 tags:
   - Location
   - Nature
+  - Other
 ---
 The Ocean Magnamous is the name granted to the largest body of water ever discovered- a massive saltwater span that connects [[Koross]] and [[Balphora]] with a five month sea journey. The Ocean Magnamous is the largest [[Magic|mana]] well in the world, places where magic is essentially destroyed- ensuring that the substance never completely consumes the world.
 

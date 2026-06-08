@@ -17,7 +17,7 @@ Akk-ak The Fleet, [[Adventurers|adventurer]].
 - Smells of canola oil
 - Four to five feet tall at full size
 
-Vissouvois are a unique and rather alien species of flora native to [[The West]], specifically found under the towering canopies of The [[Weeping Titans]] inside of [[Sorrowed Weald|The Sorrowed Weald]], or seen occasionally standing alone in the grassy fields of [[Creeping Peninsula|The Creeping Peninsula]]. Vissouvois are opportunistically carnivorous plants, they secrete a thin layer of nectar that attracts pollinators like [[Vren]]. Some pollinators will escape and find another Vissouvois, but a great deal of them will become stuck and subsequently digested by the plant.
+Vissouvois are a unique and rather alien species of flora native to [[The West]], specifically found under the towering canopies of The [[Weeping Titans]] inside of [[The Sorrowed Weald|The Sorrowed Weald]], or seen occasionally standing alone in the grassy fields of [[The Creeping Peninsula|The Creeping Peninsula]]. Vissouvois are opportunistically carnivorous plants, they secrete a thin layer of nectar that attracts pollinators like [[Vren]]. Some pollinators will escape and find another Vissouvois, but a great deal of them will become stuck and subsequently digested by the plant.
 
 Vissouvois have a fern-like body plan, with an ascending stem that has rows of leaves going up and shrinking in size and number. At the center, a one foot wide stem houses numerous biological contraptions that closely resemble helve hammers- though noticeably smaller of course. These structures are wired to, and await the activation of, the hairs growing along the leaves of the Vissouvois.
 
@@ -25,4 +25,4 @@ These hairs are fine tuned for picking up heartbeats in even the briefest moment
 
 A rapid slice acrost the stalk with a sharp weapon will largely nullify the range at which the sounds travels, meaning its relatively safe to do so if you must touch one to navigate the area.
 
-The leaves of a Vissouvois are a powerful reagent used in alchemy, though they notably tase horrid.
+The leaves of a Vissouvois are a powerful reagent used in alchemy, though they notably tase horrid. Primary applications include the Vissouvois as an ingredient in [[Wretch]], [[Draughts of Electricity Resistance]], [[Draughts of Earthly Focus]] and [[Bastion Potions]].

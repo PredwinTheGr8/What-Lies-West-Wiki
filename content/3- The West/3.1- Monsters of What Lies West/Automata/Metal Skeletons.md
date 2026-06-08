@@ -4,7 +4,7 @@ tags:
   - Magic
   - Automaton
 ---
-"Their sarcophagi line the walls of [[Forlorn Graveyard|The Forlorn Graveyard]] Countless dozens of them each corner you turn. If you know what you're doing, they'll never wake... but if you, or someone else touches something they shouldn't, takes something they'll regret... well, you'll be the real skeleton."
+"Their sarcophagi line the walls of [[The Forlorn Graveyard|The Forlorn Graveyard]] Countless dozens of them each corner you turn. If you know what you're doing, they'll never wake... but if you, or someone else touches something they shouldn't, takes something they'll regret... well, you'll be the real skeleton."
 
 -Harold Green, [[Adventurers|adventurer]]
 
@@ -13,7 +13,7 @@ tags:
 - Sarcophagi lining the walls
 - Bullet wounds on corpses
   
-"Metal Skeletons", as named by most adventurers, are [[Automata|automata]] of [[The West]] that reside exclusively within the sunken megastructure of [[Forlorn Graveyard|The Forlorn Graveyard.]] Metal Skeletons are humanoid, seven foot tall machines powered by as of yet unknown means, though with many questions such as this [[Magic|magic]] is as good an answer as any. Metal Skeletons are primarily a metallic black color- being built to resemble [[Orcs]] in full plate armor, though their faces remain static and their movements very mechanical- similarly to the possessed suits of armor: [[The Knights in Yellow]].
+"Metal Skeletons", as named by most adventurers, are [[Automata|automata]] of [[The West]] that reside exclusively within the sunken megastructure of [[The Forlorn Graveyard|The Forlorn Graveyard.]] Metal Skeletons are humanoid, seven foot tall machines powered by as of yet unknown means, though with many questions such as this [[Magic|magic]] is as good an answer as any. Metal Skeletons are primarily a metallic black color- being built to resemble [[Orcs]] in full plate armor, though their faces remain static and their movements very mechanical- similarly to the possessed suits of armor: [[The Knights in Yellow]].
 
 Metal Skeletons often wield spears or arcane firearms- such as flintlock muskets that fire bolts of electric magic. The Skeletons are largely dormant- idly waiting in their metal coffins lining the walls of the ruins until disturbed by either an attempt to open their sarcophagus, or the removal of a local [[Storm Batteries|storm battery]] or other artifact. Metal Skeletons will resume their idle state as soon as they sense that a threat has passed- either because the fool who disturbed them is dead, or the artifact is returned to its proper place- dropping the artifact and running away will also stop their march.
 

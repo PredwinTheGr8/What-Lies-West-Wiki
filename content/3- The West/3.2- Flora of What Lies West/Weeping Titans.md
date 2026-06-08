@@ -3,7 +3,7 @@ tags:
   - Flora
   - Nature
 ---
-"Awesome- mighty, and of course, solemn. The Weeping Titans of [[Sorrowed Weald|The Sorrowed Weald]] are the coolest damned plants I've ever laid eyes on."
+"Awesome- mighty, and of course, solemn. The Weeping Titans of [[The Sorrowed Weald|The Sorrowed Weald]] are the coolest damned plants I've ever laid eyes on."
 
 -Girtz Ribmangler, [[Adventurers|adventurer]]
 
@@ -16,9 +16,9 @@ tags:
 - Patches of [[Wander Moss]] across the bark
 - [[Corsair's Balconies]] growing on the bark
 
-Weeping Titans are unique flora of [[The West]] that are characterized by being the second largest trees in the world, and being the pedestal upon which their ecosystem, [[Sorrowed Weald|The Sorrowed Weald]], is sustained. Scholars aren't sure about the creation of the Weeping Titans, but some speculate that like other creatures and plants within The West, that they were created with arcane rituals for a specific purpose.
+Weeping Titans are unique flora of [[The West]] that are characterized by being the second largest trees in the world, and being the pedestal upon which their ecosystem, [[The Sorrowed Weald|The Sorrowed Weald]], is sustained. Scholars aren't sure about the creation of the Weeping Titans, but some speculate that like other creatures and plants within The West, that they were created with arcane rituals for a specific purpose.
 
-Select individuals believe that perhaps, the Weeping Titans were and effort from the citizens of [[The Old Empire of The West]] to halt the spread of the sands- to halt whatever was destroying their world. Seemingly, if this theory is to be taken as truth, it was a partial success- [[Sorrowed Weald|The Sorrowed Weald]] is one of only three [[All Regions of The West|regions]] to contain water, though it most assuredly has the most- all thanks to the Titans.
+Select individuals believe that perhaps, the Weeping Titans were and effort from the citizens of [[The Old Empire of The West]] to halt the spread of the sands- to halt whatever was destroying their world. Seemingly, if this theory is to be taken as truth, it was a partial success- [[The Sorrowed Weald|The Sorrowed Weald]] is one of only three [[All Regions of The West|regions]] to contain water, though it most assuredly has the most- all thanks to the Titans.
 
 The Weeping Titans are each, individually, [[Sites of Power]]- specifically producing hydromancy and dendromancy. They propagate positive magics into their surroundings, and also, famously, cycle water throughout their insides- spraying a mist over their canopies that pools back onto their leaves and 'rains' down into the forest below. This has created a perpetually damp ecosystem that, possibly forever, will remain a haven for life in [[The West]].
 

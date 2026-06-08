@@ -15,7 +15,7 @@ tags:
 - Smell of many flowers
 - Tracks
 
-Regrikgruki, plural, are [[Monsters|monsters]] of [[The West]] that reside within its [[All Regions of The West|region]], [[Devastated Mesas|The Devastated Mesas]]. Their name, dwarven for big green bug, will be swapped out for the common term used by adventurers- Reggies. Reggies are large, pill-bug shaped beasts with hard, copper lined shells and a dense inner network of chitin that protects them from many of their predators.
+Regrikgruki, plural, are [[Monsters|monsters]] of [[The West]] that reside within its [[All Regions of The West|region]], [[The Devastated Mesas|The Devastated Mesas]]. Their name, dwarven for big green bug, will be swapped out for the common term used by adventurers- Reggies. Reggies are large, pill-bug shaped beasts with hard, copper lined shells and a dense inner network of chitin that protects them from many of their predators.
 
 Adult Reggies get to be as large as thirteen to sixteen feet tall, depending on the gender of the Reggie in question. Female Reggies are sometimes, though not always, called Reginas. A Reggie's face is heavily obscured by their dense armor which forms a lip over their eyes, making it impossible for an adult Reggie to look up and see anything.
 
@@ -25,4 +25,4 @@ Reggies are very calm creatures, and many of them have been taken back to [[The 
 
 Combat against a Reggie in an unprepared setting is a difficult game- their hard shells and resistance to magic makes them hardy opponents. Strikes to the face are difficult, but work the best to felling any Reggie that, lets be honest, you picked a fight with. Their tongues, thin as they are, are effective whips that can lacerate flesh- though wearing any amount of armor will probably keep one safe.
 
-Reggies are prized prey for large creatures of [[Devastated Mesas|The Mesas]]. [[True Wyverns]] in particular are an impossible to escape foe for Reggies, though luckily their rarity means that the population isn't in any danger.
+Reggies are prized prey for large creatures of [[The Devastated Mesas|The Mesas]]. [[True Wyverns]] in particular are an impossible to escape foe for Reggies, though luckily their rarity means that the population isn't in any danger.

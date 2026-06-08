@@ -4,7 +4,7 @@ tags:
   - History
   - Magic
 ---
-"The whole place feels off. The silent, purple monoliths barely holding on by a thread keeping the isles aloft. The quiet gales raging beneath the rock howling distantly. The stray pebble falling down from impossible heights. And lastly, that ominous bridge from the ground- ascending up and up into the fog above. The creatures take the cake too. Hollow specters wailing in rocky prisons. Scurrying black voids with shells clambering at your feet. Flying glyphs of angry magic. The Shattered Divide is as far from natural as any other place in the west- hell, I'd feel safer crawling around the intestines of some ancient horror in [[Ossuary Reach|The Reach]]."
+"The whole place feels off. The silent, purple monoliths barely holding on by a thread keeping the isles aloft. The quiet gales raging beneath the rock howling distantly. The stray pebble falling down from impossible heights. And lastly, that ominous bridge from the ground- ascending up and up into the fog above. The creatures take the cake too. Hollow specters wailing in rocky prisons. Scurrying black voids with shells clambering at your feet. Flying glyphs of angry magic. The Shattered Divide is as far from natural as any other place in the west- hell, I'd feel safer crawling around the intestines of some ancient horror in [[The Ossuary Reach|The Reach]]."
 
 -Ezlan, [[Adventurers|adventurer]]
 

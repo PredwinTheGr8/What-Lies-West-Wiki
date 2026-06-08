@@ -1,6 +1,8 @@
 ---
 tags:
   - DailyLife
+  - Other
+  - TheWest
 ---
 [[Build Togethers|405]], [[index|What Lies West?]]
 

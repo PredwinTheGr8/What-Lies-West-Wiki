@@ -7,7 +7,7 @@ tags:
 ---
 ([[Build Togethers|425, Based on day 8]], [[index|What Lies West?]])
 
-"S'if [[Quilbeasts]] and [[Chitterbacks]] weren't enough trouble in [[Blasted Basin|The Blasted Basin]], now there some sort of psycho mantises hiding in trees and reading your thoughts. Sure, they aren't much threat to Big'uns like myself, but the wee [[Kobolds]]? The [[Goblins]]? Being small must be hard."
+"S'if [[Quilbeasts]] and [[Chitterbacks]] weren't enough trouble in [[The Blasted Basin|The Blasted Basin]], now there some sort of psycho mantises hiding in trees and reading your thoughts. Sure, they aren't much threat to Big'uns like myself, but the wee [[Kobolds]]? The [[Goblins]]? Being small must be hard."
 
 -Rough, [[Adventurers|adventurer]].
 
@@ -19,7 +19,7 @@ tags:
 - Agitated Chitterbacks in the area
 - Idle Ossuary Titans
   
-Kharahziaizi are large, insectoid [[Monsters]] of [[The West]] that reside solely within [[Blasted Basin|The Blasted Basin]], they appeared suddenly after [[The Annihilator]] destroyed The Hollow Citadel. Kharahziaizi, or their common name 'psycho mantises,' are twelve foot long, brown-green mantids with large, alchemically reinforced forceps lined with steel, and twelve, densely muscled legs. Mantids, what I will call them to avoid headaches, are ambush hunters that rely on prey treading close before they strike, living largely sessile lives.
+Kharahziaizi are large, insectoid [[Monsters]] of [[The West]] that reside solely within [[The Blasted Basin|The Blasted Basin]], they appeared suddenly after [[The Annihilator]] destroyed The Hollow Citadel. Kharahziaizi, or their common name 'psycho mantises,' are twelve foot long, brown-green mantids with large, alchemically reinforced forceps lined with steel, and twelve, densely muscled legs. Mantids, what I will call them to avoid headaches, are ambush hunters that rely on prey treading close before they strike, living largely sessile lives.
 
 Their aforementioned steel bladed arms are naturally made at birth- being an innate and uncontrollable use of alchemy to enhance themselves. This is evidence of artificial creation- that and their sudden appearance in the Basin, of course. Mantids will not pursue prey far once roused, preferring to keep their energy rather than waste it on something far faster and less clumsy than themselves. If prey has been significantly wounded, however, they will slowly pursue and wait for the monster, or adventurer, to succumb to blood loss.
 
@@ -31,7 +31,7 @@ Another, more queer callsign one could follow to locating a Mantid is that for s
 
 Regardless, Mantids are not very good at hiding their tracks. They constantly drool a viscous, green ichor from their mouths- theoretically used to mark territories and or find a mate. This substance often pools around the base of their hiding tree, easily revealing their presence to those wise enough to pay attention. They also eat very messily- leaving small piles of gore and bone under them as they rip prey apart. This might be purposeful, though, as the gore often attracts other prey items- such as their favorite morsel, [[Chitterbacks]].
 
-Chitterbacks appeared around the same time as the Kharahziaizi, both creatures seeming to have some sort of inter-species dispute with one another. Though, one [[Monsters|monster]] in [[Blasted Basin|The Blasted Basin]] hates Mantids even more- [[Mire Hulks]].
+Chitterbacks appeared around the same time as the Kharahziaizi, both creatures seeming to have some sort of inter-species dispute with one another. Though, one [[Monsters|monster]] in [[The Blasted Basin|The Blasted Basin]] hates Mantids even more- [[Mire Hulks]].
 
 Mire Hulks are very intelligent, if it wasn't obvious from their 'tool use' in the form of adventurers. [[Mire Hulk Elders]], though, the ones kept alive by the frequent help of Adventurers or sheer luck, are incredibly wise. These Mire Hulk specimens will regularly leave the water and hunt any nearby Mantids. This is the only time other than egg laying that a Mire Hulk adult ever leaves the water. Mire Hulk Elders are powerful creatures, and will uproot the palm tree a Mantid is hiding on just to brutally bludgeon the insectoid to death with their massive claws. It is speculated that these specimens are actively culling Mantids solely to keep adventurers safer in The Basin. I've never gone into The West myself, but I think that getting the opportunity to interact with a living Mire Hulk is perhaps the prime reason I would like to eventually.
 

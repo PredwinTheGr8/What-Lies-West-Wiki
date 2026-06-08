@@ -10,12 +10,12 @@ tags:
 ### [[Monster Callsigns|Callsigns]]-
 
 - [[Marrow Bushes]] in the area
-- [[Ossuary Reach]]
+- [[The Ossuary Reach]]
 - Buzzing noise
 - Infrequent mind whispers
 - Swollen corpses
 
-'Pricks', as adventurers so heartwarmingly call them, are [[Monsters]] of [[The West]] that closely resemble the wasps of The East. Pricks hide within the vast tunnel networks of [[Marrow Bushes]], where they make their hives. Other creatures, such as adventurers, use Marrow Bushes as a key source of water- meaning that encounters with pricks are common within the wasps domain of [[Ossuary Reach|The Ossuary Reach]].
+'Pricks', as adventurers so heartwarmingly call them, are [[Monsters]] of [[The West]] that closely resemble the wasps of The East. Pricks hide within the vast tunnel networks of [[Marrow Bushes]], where they make their hives. Other creatures, such as adventurers, use Marrow Bushes as a key source of water- meaning that encounters with pricks are common within the wasps domain of [[The Ossuary Reach|The Ossuary Reach]].
 
 The wasps' sting is famed for being extremely painful, but not overly deadly. Though the venom can kill in high quantities it would take upwards of sixty stings to be dangerous. Pricks don't venture far from their hives during the day, as the extreme heat of the sun within [[The West]] is enough to cook them alive within minutes. Thus, the safest time to harvest water from [[Marrow Bushes]] is during noon, when the wasps are the least likely to chase any who would disrupt their nests.
 

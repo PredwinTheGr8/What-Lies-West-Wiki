@@ -1,6 +1,7 @@
 ---
 tags:
   - History
+  - Other
 ---
 ([[Build Togethers|449]], [[index|What Lies West?]])
 
@@ -8,7 +9,7 @@ Since the year 840 of the Orphidian calendar, we have known that something ancie
 
 Three thousand, five hundred and sixty three people were not just killed, but utterly destroyed. Their flesh became water, and their souls were annihilated. True to its name, the monolith of hatred destroyed much of [[The City of Wyrms]], districts were flattened, homes incinerated by beams of evil light- our greatest achievements immolated. Even the distant [[Scholam Wyrmras]] was blighted, much of its repository assailed- though the information had duplicates it was clear the motivations the Annihilator possessed- or perhaps still does.
 
-The Annihilator seeks to forbid us knowledge. It thwarts our investigations into [[The Old Empire of The West]], it has folded the earth over ancient buildings once used as waypoints. The Hollow Citadel of [[Blasted Basin|The Blasted Basin]] was but one of many. But perhaps the most hallowing behavior, is its stalking of [[Adventurers]].
+The Annihilator seeks to forbid us knowledge. It thwarts our investigations into [[The Old Empire of The West]], it has folded the earth over ancient buildings once used as waypoints. The Hollow Citadel of [[The Blasted Basin|The Blasted Basin]] was but one of many. But perhaps the most hallowing behavior, is its stalking of [[Adventurers]].
 
 ### First month after the attack on the City-
 
@@ -20,7 +21,7 @@ Eight sightings, same position relative to sun, though one was during the night-
 
 ### Third month-
 
-No sightings. This period is when [[The Things in The Dark, Null Figures|The Things in The Dark]] first appeared, and [[Maws]] began leaving [[Creeping Peninsula|The Creeping Peninsula]] on mass.
+No sightings. This period is when [[The Things in The Dark, Null Figures|The Things in The Dark]] first appeared, and [[Maws]] began leaving [[The Creeping Peninsula|The Creeping Peninsula]] on mass.
 
 ### Fourth month-
 
@@ -32,4 +33,4 @@ Nineteen sightings, Annihilator was said to be resting just above the horizon, i
 
 I'm sure you're noticing the trend. As time goes on The Annihilator's sightings grow more and more frequent. Monsters behave more and more erratically or outright appear out of nowhere. Thus far five separate monster species have shown up seemingly from direct interference of The Annihilator. [[The Things in The Dark, Null Figures|Null Figures]] came first, then [[Immolators]], followed by [[Harrowers]], [[Kharahziaizi, Psycho Mantises|Kharahziaizi]] and of course [[Chitterbacks]].
 
-So far, The Annihilator has destroyed numerous different landmarks within The West- The Hollow Citadel of [[Blasted Basin|The Basin]], The Gleaming Bastion of [[Shattered Divide|The Shattered Divide]], and others. It seeks to either wipe us out, or to prevent us from finding something- some sort of information that it does not want us to possess. Something related to its origins? A way to slay it? Information pertaining to [[The Deep]]? There are sallow, grey shadows in my thoughts as I write this- visions described by madmen who lay drunk on street corners. I feel its presence, in my head. It knows what I write now, it knows what I suspect. It is making demands of me, now. Silent commands only audible to me. I will place this document somewhere easy to find before I lose myself. I must toss the key far away that I cannot find it... Then I do not know if I can resist its call any longer. I wants me to come find it- right now. I cannot resist.
+So far, The Annihilator has destroyed numerous different landmarks within The West- The Hollow Citadel of [[The Blasted Basin|The Basin]], The Gleaming Bastion of [[The Shattered Divide|The Shattered Divide]], and others. It seeks to either wipe us out, or to prevent us from finding something- some sort of information that it does not want us to possess. Something related to its origins? A way to slay it? Information pertaining to [[The Deep]]? There are sallow, grey shadows in my thoughts as I write this- visions described by madmen who lay drunk on street corners. I feel its presence, in my head. It knows what I write now, it knows what I suspect. It is making demands of me, now. Silent commands only audible to me. I will place this document somewhere easy to find before I lose myself. I must toss the key far away that I cannot find it... Then I do not know if I can resist its call any longer. I wants me to come find it- right now. I cannot resist.
