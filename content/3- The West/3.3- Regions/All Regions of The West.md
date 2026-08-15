@@ -63,3 +63,11 @@ A once busy industrial super-mine, now rendered a barely functioning field of Fr
 #### [[The Colossal Rift]]- (**18**)
 
 An [[Magic|arcane]] place dominated by a great eye in the sky- The Colossal Rift is believed to be the furthest West of all regions, at least so far. The Colossal Rift, the namesake of the region, is somewhat present no matter where you are in The West, but always as a faint outline in the distance that changes position every time you look away. But here, in this region, it is blatant, opaque and always staring directly at you- sicking its [[Monsters|monstrous]] minions at you to rend your flesh, or so it is speculated.
+
+#### [[The Intra-Boreal Exclusion Zone]]- (**19**)
+
+The rarest, most difficultly trodden region within the whole of [[The West]]. The "Ibeks" as [[adventurers]] call it, remains the most difficult to survive in place ever visited under the abandoned reign of [[The Old Empire of The West]]. A central, omnipresent tower with a revolving light controls an intense, soul and mind crushing storm of sleet and frost that the local flora has barely adapted to survive. Here, [[The Deep]] has made a near full manifestation, with countless pawns of [[The Four]] crawling about every nook and cranny.
+
+## [[The Eye of The West]]- (**20**)
+
+The apex of the activity within The West. [[The Annihilator]] does not allow entry.

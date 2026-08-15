@@ -25,4 +25,4 @@ An adult inverter will often attract the attention of Buzzards and crows, as the
 
 If Inverters have a weakness, it has not yet been found. It's best to avoid them entirely.
 
-Inverters prey on anything and everything they can fit in their mouth- [[Maws]], [[Arcanosaurs]] even the odd [[Wyverns|Wyvern]]. The only creatures seen eating an adult Inverter are [[Tarrasques]].
+Inverters prey on anything and everything they can fit in their mouth- [[Maws]], [[Arcanosaurs]] even the odd [[Wyverns|Wyvern]]. [[Chrozhran Destroyers]] and other large monsters like [[Behemoths]] may be capable of uprooting and consuming large, but not fully grown Inverters.

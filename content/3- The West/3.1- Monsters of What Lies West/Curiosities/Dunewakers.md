@@ -1,0 +1,33 @@
+---
+tags:
+  - Monster
+  - Magic
+  - History
+  - Legendary
+---
+"The sands screamed about us. They begged to slow down, sand flew like daggers that could cut through adamantine! We hid in a ruin with a small skylight in it, and that's when we say the damn thing. A hovering, terrible behemoth chanting in the tongue of magic- or so Sh'vreaish said. It's one eye looked down into the hole at us. We thought we were dead. But alas, I am an unkillable bastard. Huh? Oh no, yeah it just left us alone. Why interview me if you're gonna ask everyone else first Andrich?"
+
+-Rough, [[adventurers|adventurer]]
+
+### [[Monster Callsigns|Callsigns]]-
+
+- Sandstorm, Haboob variety
+- Overwhelming stench of Graviturgy, described as the smell of rain
+- Headaches, altitude sickness
+- [[Vorpal Tunneling]]
+- High magic presence, Fae Rifts
+- Pressure building behind the eyes, mild discomfort
+
+Dunewakers are [[Legendary Monsters]] of [[The West]] that can be found anywhere with sand, though they may bring the sand with them under certain circumstances. Namely, Dunewakers are found within [[The True Desert]], where they are most well equipped for destruction. Visually, Dunewakers are large spheroid creatures that hover above the ground- roughly twelve feet top to bottom. In  the center of their body rests a single, massive eye. This gives the Dunewakers horrible depth perception, therefore forcing it to use many tendrils along its underside to test the distance of objects as it moves. These tendrils hold olfactory, sensory, taste, and temperature detecting parts that make the Dunewaker capable of identifying almost any substance- be it airborne or purely upon touch. This most often is used by the creature to identify poisons in their prey, or to detect their predators from great distances.
+
+Dunewakers earn their namesake from the ability to manipulate massive amounts of sand as a weapon. They earn this power from rampant consumption of [[Graviturgy]], meaning that many Dunewakers  can be found near [[Sites of Power]] that produce graviturgy, and seen hunting down schools of [[Jeweled Fish]] which they need to survive. Dunewakers- which I must stress are far different to Dune*walkers*, are powerful creatures purely due to their arcane skill. Their abilities regarding gravity manipulation are not exclusive to only moving sand and creating storms- Dunewakers are perhaps most feared for their ability to do whatever they wish with creatures their size or smaller.
+
+The central eye of a Dunewaker holds a powerful arcane circle in it's iris. This spell allows the Dunewaker to manipulate the gravity and push force of any object roughly 550 pounds or lighter. While it is possible to avoid being grappled by the magic through shear willpower, it is a difficult feat not many can accomplish. This arcane circle has sparked many debates regarding the nature of many [[Monsters|monsters]] within [[The West]], with [[Scholars|scholars]] worldwide being absolutely confuddled by how many seem to be artificially created, at least at one point. This arcane circle proves that, without a doubt, [[The Old Empire of The West]] was extremely capable beyond reason- mighty weapons, impossible spells, impregnable fortresses- all undone by something ancient and unknown. The shear complexity of the circle is beyond any previous beliefs of how magic circles even function at 100% possibility.
+
+Where as previously, magic circles were confined to a two dimensional space, such as a standard glyph drawing, the circle within the eye of a Dunewaker revealed that multiple layers of circles may be stacked and oriented over each other, stacking infinitely- at least theoretically. So far, this information has been deemed dangerous- becoming outlawed for the time being in order to properly research applications and dangers. I'll admit, our main concern seems to be that such powerful spells are what caused the calamity in the first place; there is a very real danger that faffing about with this technology could reawaken the apocalypse. Clearly nowadays we don't posses to knowledge to stop it again, so we must tread with caution.
+
+Returning to the topic at hand- Dunewakers have gotten quite the mixed reputation from [[adventurers]], with some fearing them, others vilifying them, and even a few who idolize them. According to encounters, any one Dunewaker is liable to take any number of actions against a party in their path- the most common action taken the monster is to simply go along its way. Dunewakers are incapable or consuming low-magic flesh, and may therefore only ever take an interest in mages or the like for cuisine. Still, Dunewakers remain largely uninterested in mortals, with only certain few individuals displaying aggressive signs. Scholars like myself believe that there is a much deeper sentience to Dunewakers- a level of thought that we, as of yet, cannot understand. It is possible that the creatures are afflicted with [[Eldritch Energy|eldritch]] corruption, forcing them to see into the alleged 'other world' that survivors of [[The Things in The Dark, Null Figures|The Things in The Dark]] speak of, confusing the creatures and only making it seem as if they possess deeper motives than they really do. Or, perhaps they really are simply 'intelligent' but not in the same way as us mortals. There's not a great way to explain such a concept, I admit, but for now its where I've placed my own cards.
+
+When in combat against a Dunewaker, counter spells and anti-magic such as silence are essential. Damaging the eye beyond recovery will remove the primary form of offense that the Dunewaker has, making the remainder of combat far easier and altogether stress free as the creature attempts in vain to flee. While you may be injured, its better to pursue and finish off the Dunewaker than to let it succumb to injury- lest it mutate into a [[Beholders|Beholder]].
+
+Dunewakers are rare components in the food chain- praying themselves namely on [[Jeweled Fish]], though powerful wakers may fell even [[Chrozhran Destroyers]], They are oft preyed upon by any monster that can get the drop on them, or one that's brute strength is more than enough to push past a Dunewakers defense. Namely this includes [[Chrozhran Destroyers]], [[Behemoths]] and other such large fauna. IN terms of intellect based predation, a [[Vorpal Lancers|Vorpal Lancer]] may keep behind a Dunewaker until the last moment, and a foolish Dunewaker may accidentally trigger the snare of an [[Inverters|Inverter]].

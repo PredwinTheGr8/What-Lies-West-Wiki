@@ -12,7 +12,7 @@ tags:
 ### [[Monster Callsigns|Callsigns]]-
 
 - Detect good
-- Chirps
+- 'Chirps'
 - Rock Cairns
 
 Goodfellows are small, beloved [[Monsters]] of [[The West]] that reside within both [[The True Desert|The True Desert]] and [[The Shattered Divide|The Shattered Divide]], though they remain incredibly rare in the former. Goodfellows, named by adventurer Markus Krauler for their cheering appearance, are small, two foot tall insects with hardened, buckler shaped shells covering them like a parasol. They possess blue-green shells that shine under the light of the Tyrannical Sun. Their little legs poke just shyly out from their shells, their eyes small beacons of white light that piece the fog of their common home.

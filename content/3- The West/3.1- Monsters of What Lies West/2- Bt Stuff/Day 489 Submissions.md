@@ -1,3 +1,8 @@
+---
+tags:
+  - BT
+  - Other
+---
 
 
 Day 489 of the [[Build Togethers]] features three different Monsters:

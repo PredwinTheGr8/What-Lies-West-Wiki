@@ -18,3 +18,11 @@ Iradeen is threatened at gunpoint by Immolesh.
 ### [[Transit Duty]]-
 
 Gk'road gets stuck walking around a solid steel carriage with a very unhappy occupant.
+
+### [[KHAZAHN!]]-
+
+Despite their differences, a Bath'kah named Hrikahl and Harold Green's party group up to fell a great beast.
+
+## [[Something, Staring, Seething]]-
+
+A threat beyond comprehension is angered by prediction.

@@ -4,7 +4,7 @@ tags:
   - History
   - TheWest
 ---
-([[Build Togethers|347]], [[What Lies West]]?)
+([[Build Togethers|347]], [[index|What Lies West?]])
 
 [[The Old Empire of The West]] is perhaps the most curious civilization in the world. It has left behind many an arcane curio, from ancient weapons with no keys, to monolithic golems with no life in them, the ancients that inhabited this land before the known world was even drawn were quite the inventors.
 

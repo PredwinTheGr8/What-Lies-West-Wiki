@@ -29,7 +29,7 @@ Nineteen sightings, Annihilator was said to be resting just above the horizon, i
 
 ### Fifth month-
 
-[[Immolators]] first appeared, [[Siegers|Sieger]] armor grew stronger and they began to amass faster. Thirty-Eight sightings, all the same as last months save for two. Two reported that The Annihilator grew closer rapidly every time they turned away, ending when inevitably they were forced to sleep and the Annihilator was seen hovering just above them- staring downwards. Immediately after the Annihilator vanished into thin air as seen when it left [[The City of Wyrms]]. Affected parties have yet to return to [[The West]] out of fear, smartest adventurers I've seen yet.
+[[Immolators]] first appeared, [[Shamblers|Shambler]] armor grew stronger and they began to amass faster. Thirty-Eight sightings, all the same as last months save for two. Two reported that The Annihilator grew closer rapidly every time they turned away, ending when inevitably they were forced to sleep and the Annihilator was seen hovering just above them- staring downwards. Immediately after the Annihilator vanished into thin air as seen when it left [[The City of Wyrms]]. Affected parties have yet to return to [[The West]] out of fear, smartest adventurers I've seen yet.
 
 I'm sure you're noticing the trend. As time goes on The Annihilator's sightings grow more and more frequent. Monsters behave more and more erratically or outright appear out of nowhere. Thus far five separate monster species have shown up seemingly from direct interference of The Annihilator. [[The Things in The Dark, Null Figures|Null Figures]] came first, then [[Immolators]], followed by [[Harrowers]], [[Kharahziaizi, Psycho Mantises|Kharahziaizi]] and of course [[Chitterbacks]].
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Other
+---
 
 "The Raven calls, the carcass rots. Unto the connoisseur a dozen answers given for their one question in words unfathomable every step they take within the Kings Castle. The Yawning Gates, the Roiling Clouds, the Quaking Mountains. All is as it should be, and that is why everything will wither and bloom and wither again. Make the plunge, drop the doll, swing the blade. **Commit the sacrifices**."
 

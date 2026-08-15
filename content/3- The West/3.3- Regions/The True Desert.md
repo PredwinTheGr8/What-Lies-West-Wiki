@@ -23,7 +23,7 @@ The creatures. Monsters rather I suppose. The ones here are over adapted to surv
 [[Scollifs]]- Native, though found in other regions that can support them like [[The Blasted Basin|The Blasted Basin]]. Spied at night time glowing under moonlight as they siphon [[Pyromancy|pyromancy]] from the dunes below.
 [[Dunewakers]]- Native, though invasive in other soft-soil regions such as [[The Blasted Basin|The Blasted Basin]] and [[The Creeping Peninsula]]. Adventurers try their best to hide when one rolls by- carried by the winds and sand they awaken to serve them.
 [[Inverters]]- Undetermined, though the Desert is the most suitable region for them to live inside of. Never seen until the last moment- when someone springs the trap and the pit is revealed.
-[[Siegers]]- Native, seen amassing outside [[The City of Wyrms]] preparing for war. Kill on sight.
+[[Shamblers]]- Native, seen amassing outside [[The City of Wyrms]] preparing for war. Kill on sight.
 [[Skrin]]- Native, Heard howling in the night as they crawl out from their holes to hunt their fellow man. [[Ratfolk|Ratfolk's 'M'raaskarask']] for 'Burned'.
 [[Boozants]]- Native, found in large mounds or in the pouches of alcoholic adventurers. Tastes of spiked apple cider.
 [[Gnolls]]- Roamer, often found dead from dehydration as they attempt to migrate to [[The Ossuary Reach|The Ossuary Reach]] form wherever they were [[Mutants|mutated]].

@@ -4,7 +4,7 @@ tags:
   - Magic
   - History
 ---
-"We were in a quite- *dead quiet*- sunken ruin within [[The Forlorn Graveyard|The Forlorn Graveyard]]. Ripped apart suits of armor, ravaged corpses of [[Monsters|monsters]], and the stench of decay and dung. We entered a large chamber with a large stone in its center. Once we got close, the stone took a deep breath and rose up- a writhing, heaving mass of tendrils and teeth. It screamed with such force that we went deaf for a moment. Twenty three reduced to five in three minutes."
+"We were in a quiet- *dead quiet*- sunken ruin within [[The Forlorn Graveyard|The Forlorn Graveyard]]. Ripped apart suits of armor, ravaged corpses of [[Monsters|monsters]], and the stench of decay and dung. We entered a large chamber with a large stone in its center. Once we got close, the stone took a deep breath and rose up- a writhing, heaving mass of tendrils and teeth. It screamed with such force that we went deaf for a moment. Twenty three reduced to five in three minutes."
 
 -Olluk The Bull, [[Adventurers|adventurer]]
 

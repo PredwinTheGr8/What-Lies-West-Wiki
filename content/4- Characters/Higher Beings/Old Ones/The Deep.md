@@ -2,6 +2,7 @@
 tags:
   - History
   - Eldritch
+  - Other
 ---
 "When you walk where you shouldn't, where one could not, where one will never- between the seams and curtains of the material and the border of the absurd- the impossible. That time and that time alone is when any mortal would ever be the closest to [[The Four]]- at least physically, if such laws of reality even exist within such a place. Dripping thoughts falling from a ceiling of the mind of the unfathomable- careening down and down and down unto and into and throughout you. 'Sallow Shadows in The Shadows, Risen Withered and Unbidden.' Remember this."
 

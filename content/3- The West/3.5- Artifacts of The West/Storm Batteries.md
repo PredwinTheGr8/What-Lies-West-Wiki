@@ -4,7 +4,7 @@ tags:
   - TheWest
   - Magic
 ---
-([[Build Togethers|372]], [[What Lies West]])
+([[Build Togethers|372]], [[index|What Lies West?]])
 
 Storm batteries are ancient artifices of [[The West]] that are often found buried in the sands around [[The Voltaic Monolith|The Voltaic Monolith]], idly sitting in the halls of [[The Forlorn Graveyard|The Forlorn Graveyard]], or powering the contraptions therein. Storm Batteries, as their name suggests, harvest the electromancy produced by The Voltaic Monolith and are used to grant motion to the idle machinations within the ancient hallways of The Forlorn Graveyard.
 

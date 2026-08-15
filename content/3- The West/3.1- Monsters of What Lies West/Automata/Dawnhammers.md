@@ -1,0 +1,34 @@
+---
+tags:
+  - BT
+  - Magic
+  - Automaton
+  - TheWest
+---
+([[Build Togethers|547]], [[index|What Lies West?]])
+
+"Only twice so far. But the first time was more than enough. That slow buildup in the room as the magic dimmed. The sparking, crying noises of something tired and mechanical waking. The roar of a thousand soldiers as the beast woke. 'Dawnhammer' Elzroy called it. Shame to find out there was more than one."
+
+-Harold Green, [[adventurers|adventurer]]
+
+Dawnhammers are [[Automata|automata]] of [[The West]] found active in either [[The Swallowed City]] or [[The Forlorn Graveyard]], though rarely their husks can be found in other locations, like hanging from a tree in [[The Sorrowed Weald]] or half buried in [[The True Desert]]. Visibly, 'Dawnhammers' may resemble a vehicle, though examination reveals that there is no seats for occupants or divers, instead the interior is full to the brim with machinery and arcane contraptions- at least in a functional or recently deactivated Dawnhammer. With three wheels on either side, each connected to a large rotating belt, the Dawnhammer is made to traverse difficult terrain with ease. Its approximate weight of 8 tons means a Dawnhammer in motion stays in motion- with the automata easily capable of smashing through walls without losing any momentum.
+
+With a rectangular body, the surface of a Dawnhammer- made entirely of solid adamantine- is incredibly resistant to impact, with most shots taken with even large caliber flintlock weapons bouncing or sliding off the hull of the automata. At the front of the construct, a single ancient elven word rests acrost what may have at one point been a viewport. This word is the source of the automata's name; "Dawnhammer" or in the elven tongue "Dainour."
+
+Dawnhammers, rare as functional ones are, act with extreme prejudice to adventurers or any other creature that draws too near, with the exception of [[Eldritch Energy|Eldritch]] Spawn which the Dawnhammer completely ignores. When aggressing, a Dawnhammer will use a vast array of weaponry to dispatch their targets. Their primary form of attack comes from a highly advanced firearm capable of rapidly firing off bullets in a near perfect trajectory- with zero recoil affecting the firearm within. This turret is housed near the empty viewport of the machine, and with enough firepower may be disabled- though eventually the turret WILL run out of ammo. Harold Green, the first to encounter a Dawnhammer with his party, reported that as they took cover and repeatedly peaked to spot the Dawnhammer, it took roughly three minutes of sustained fire to deplete the munitions within.
+
+Among other lesser offensive options, a Dawnhammer possesses a weapon of extreme destruction on a rotating platform above its body. This large cannon fires massive highly explosive projectiles that can easily kill an [[Adventurers|adventurer]] in under a second, with little to no parts of the persons body remaining after 'impact,' though its better to say that the rounds simply rip apart a target with a direct hit, then explode after hitting something more solid.
+
+Out of the eight reported encounters with a Dawnhammer, only two have ever used their cannon, suggesting either mechanical failure is at play, or the automata do not possess the munitions to fire after such a long time inactive. Five of the eight Dawnhammers were rendered immobile before awakening, and three were in near perfect condition- though only one of those three ever fired its main cannon.
+
+After their second encounter with a Dawnhammer, adventurer Harold Green made a great effort to bring the chassis back to [[The City of Wyrms]], an effort he succeeded in. Examination was conducted by yours truly, and after picking apart at its insides I have much to report.
+
+My primary finding was that the Dawnhammer possessed a worn down [[Vocal Crystals|Vocal Crystal]], which for ONCE actually had audible segments to the entire recording. Set groves meant that the Automata could play key phrases and certain context words used to communicate with... something. I would assume that these machines served as some kind of commander for other Automata or even living soldiers at the time they were used. The only phrases from the Vocal Crystal I can parse are "Enemy in cover," "Flank," "Left," "Right," "Charge," "Cast" and "Retreat"- all in ancient Elven of course though luckily I am fluent.
+
+The second finding was its fuel. A large cylinder within is spun by combustion, which turns a device that draws in local mana, powering a [[Storm Batteries|Storm Battery]]. This "combustion" only serves to kickstart the process and will stop functioning once a certain percentage of mana has been gathered-detected of course through highly complex machinery. Most other Automata we see within the west are much, MUCH simpler than this. I don't think I could ever reverse engineer anything like a Dawnhammer if you gave me another thousand years of life, but things like [[Metal Skeletons]] and even [[Colossi]] could theoretically be made again if we had the resources- hell [[Von Conrad, Seamus VI|Seamus]] has a Metal Skeleton that guards his pantry! This "mana engine" contraption is immeasurably complex, however it was designed in the first place is a mystery in and of itself!
+
+My final notable finding is that the components responsible for target acquisition are labeled as "See the Faithful, Purge The Devoted." I can only assume that we as mortals are targeted out of error or perhaps it searches for a certain article of clothing- a badge or perhaps heraldry that belongs to "friendlies" the Machine may have been accompanied with. I must say that these discoveries give potential context to the nature of the final days experienced by [[The Old Empire of The West]], or perhaps the final years. We don't know how fast the so called apocalypse was. It could have been a centuries long struggle, or it could have been mere hours. This history is still OUR history- these are elven words, and whether or not it was my great great great grandfather or a thousand grandfathers before him who stood in The Old Empire as a citizen and not an explorer I remain determined to know my past.
+
+In combat against a Dawnhammer mobility is key. Keeping away from the Automata's front and avoiding the turret will allow you to deal blows to the wheel structures and eventually break open the hatch on top and deal a devastating blow to the internal machinery. [[Pyromancy]] spells will weaken the armor greatly and allow normal strikes to pierce through.
+
+Dawnhammers do not have a place in the Ecosystem as automata, and only serve to disrupt it. Avoid them if you can; act with cunning if you cannot.
