@@ -66,7 +66,7 @@ An [[Magic|arcane]] place dominated by a great eye in the sky- The Colossal Rift
 
 #### [[The Intra-Boreal Exclusion Zone]]- (**19**)
 
-The rarest, most difficultly trodden region within the whole of [[The West]]. The "Ibeks" as [[adventurers]] call it, remains the most difficult to survive in place ever visited under the abandoned reign of [[The Old Empire of The West]]. A central, omnipresent tower with a revolving light controls an intense, soul and mind crushing storm of sleet and frost that the local flora has barely adapted to survive. Here, [[The Deep]] has made a near full manifestation, with countless pawns of [[The Four]] crawling about every nook and cranny.
+The rarest, most difficultly trodden region within the whole of [[The West]]. The "Ibeks" as [[adventurers]] call it, remains the most difficult to survive in place ever visited under the abandoned reign of [[The Old Empire of The West]]. A central, omnipresent tower with a revolving light controls an intense, soul and mind crushing storm of sleet and frost that the local flora has barely adapted to survive. Here, [[The Deep]] has made a near full manifestation, with countless pawns of [[The Four]] crawling about every nook and cranny. A [[Seamsters|Seamstress]] named 'Maribel' guards the only entrance to the region and only allows the strongest to pass.
 
 ## [[The Eye of The West]]- (**20**)
 

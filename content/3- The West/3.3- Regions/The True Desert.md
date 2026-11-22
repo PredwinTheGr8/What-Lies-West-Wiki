@@ -35,7 +35,7 @@ The creatures. Monsters rather I suppose. The ones here are over adapted to surv
 [[Beasts of Nightmares]]- Roamer, found when adventurers wake to find one sleeping on their chest. Named by Markus Krauler, who thought it was ironic and funny.
 [[Ossuary Titans]]- Roamer, seen silhouetting themselves against the sun at the twilight hours of the day. Their titanic forms always face further west when idle, or so it is said.
 [[Warp Beasts]], [[Void Bisons]] and [[Bath'kah]]- Rarely seen in convoys headed to unknown ancestral locations. Adventurers who ask too many questions end up in a sack for the Bath'kah's own tribute to something else.
-[[Immolators]]- Spawn of [[The Annihilator]]. Scorches sand into glass beneath their footsteps and burns any wildlife to ash on sight. Absolute kill order under authority of Adventurer's Guild director [[Ser Mallorin Berns of Harush]].
+[[Immolators]]- Spawn of [[The Annihilator]]. Scorches sand into glass and burns any wildlife to ash on sight. Absolute kill order under authority of Adventurer's Guild director [[Ser Mallorin Berns of Harush]].
 [[Mimics]]- Roamer, found only in dungeons below the sands. Heard crying out for help with their stolen voices. Cannot understand languages other than [[Koross|Korosian]], use non-standard speech to confuse and it force them out of their act.
 [[The Things in The Dark, Null Figures|The Things in The Dark]]- Roamer. Pray one does not find you entertaining.
 [[Liches]]- 'Roamer' is perhaps the wrong word, but they can be found anywhere in [[The West]]. Their lairs are hidden and nearly impossible to locate.

@@ -29,6 +29,6 @@ As I kept my eyes on the blubbery mound, I knocked my foot against a femur bone.
 
 I didn't hesitate even for a moment, I shot it. It squealed like a hog. I stepped out of its way as it tried to grab me. I reloaded, I shot again, and again and again. I didn't know I could load a flintlock that fast. But eventually, It got its hand on me and I... I went feral. I remember biting its flesh and ripping chunks out of it and... and when it let go I lunged back at it. I can still taste that horrid blood in the back of my throat.
 
-I went home... sick, but full. Gods. Gods what is happening to me? I must keep writing. To distract myself, to keep myself sane. What's next on my list? I need to find it. I mus
+I went home... sick, but full. Gods. Gods what is happening to me? I must keep writing. To distract myself, to keep myself sane. What's next on my list? I need to find it. I mus-
 
 *the page is covered in scribbles and mad ramblings. something black and vile stains the lower corners.*

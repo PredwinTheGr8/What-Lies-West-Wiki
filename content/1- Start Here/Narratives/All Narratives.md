@@ -26,3 +26,11 @@ Despite their differences, a Bath'kah named Hrikahl and Harold Green's party gro
 ## [[Something, Staring, Seething]]-
 
 A threat beyond comprehension is angered by prediction.
+
+## [[A Memory, Not My Own]]-
+
+Andrich is gifted with knowledge he cannot parse.
+
+## [[Visitation Hour]]-
+
+Andrich is visited by his greatest fear as he is separated from his party.
