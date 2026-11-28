@@ -34,3 +34,4 @@ Without a way to track down their source, only speculation can be made as to the
 In combat against a Shambler, avoiding over-headed attacks is key. The force with which they attack is difficult to block even through shields. Keeping light on your feet and striking the legs to bring the head into range of attack is key, as severing the head is the quickest way to demobilize a Shambler- as 'killing' a Shambler requires ritual, or complete incineration of its flesh.
 
 As True Spawn, Shamblers do not need to eat, sleep or drink- and therefor do not play a part in the ecosystem. The Towns Guard humbly ask that adventurers 'show em what for' on encounter and help to mitigate their threat on the city.
+![[Shamblers.png]]

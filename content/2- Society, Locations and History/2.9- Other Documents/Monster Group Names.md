@@ -229,6 +229,10 @@ A group of two or more Revenants is known as a Tolling of Revenants.
 ### [[Regrikgruki]]-
 
 A group of five or more Reggies is known as a Buzzing of Reggies/Regrikgruki.
+
+### [[Riphawgs]]-
+
+A group of six or more Riphawgs makes a Whiff.
 ### [[Rot-winged Wranglers]]-
 
 Six or more Wranglers makes a Lasso of Wranglers.

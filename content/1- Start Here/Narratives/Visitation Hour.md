@@ -97,6 +97,7 @@ I try to comfort the creature, I didn't want it mad. But I cannot bare to speak 
 "I DO NOT HEED THE WORDS OF MONSTERS! KILL ME OR SET ME FREE HELL SPAWN."
 
 # "..."
+![[Silence.wav]]
 
 The Annihilator looks at me like a broken toy. Its iris shrinks down to the size of a pin- though given how far away it really is It must still be larger than the entire [[The City of Wyrms|City of Wyrms]].
 

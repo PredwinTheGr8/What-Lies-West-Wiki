@@ -1,0 +1,40 @@
+---
+tags:
+  - Monster
+  - Magic
+---
+"I bet it's their fault the [[Man-Fishers]] are so damn deadly. An arms race between two [[Monsters|monsters]] what makes them absolute extremes compared to everything around them. One one hand, a beast that prioritizes dense plates of armor and defense. On the other, a light, stealthy creature that puts all its cards on a single devastating shot. The two fiends are meant for each other."
+
+-Rough, [[Adventurers|adventurer]]
+
+### [[Monster Callsigns|Callsigns]]-
+
+- Loud footfalls
+- Trees stripped of bark
+- Very clear visual presence
+
+Walking Bastions are [[monsters]] of [[The West]] that can be found solely residing [[The Sorrowed Weald]]. Walking Bastions are the largest devout herbivores of The West, gaining all of their nutrients via the consumption of plant matter. [[Ossuary Titans]] might come to mind for such a title, but they in fact never consume plant matter, being partial manavores and opportunistic carnivores. The only creature larger than a walking bastion that consumes plant matter would be a [[True Wyverns|True Wyvern]], who are rarely seen consuming cane stalks within [[The Blasted Basin]] but obviously such a creature is hardly devoted to herbivory.
+
+Walking Bastions earn their namesake for their massive plates of chitinous armor covering their bodies. This dense plating accounts for roughly 30-40% of a Bastion's body mass according to arcane investigations conducted by both yours truly and Ashkram Who Speaks Strange. With six legs and a dense exoskeleton, Walking Bastions clearly descend from arthropods such as beetles. These legs are incredibly dense, with the footfalls of a Bastion echoing deep into [[The Sorrowed Weald|The Weald]] even during the day, when there is a nonstop torrent of rainfall drowning out most other noises.
+
+I, and others of [[Scholars|my occupation]] believe that these stomps are purposeful, both to intimidate foes and to attract a mate. Ashkram's studies show that female Bastions are more likely to approach males with louder footsteps. The louder a male's footsteps the longer it has lived and the better it has eaten. Male Bastions can be told apart from females by dense hairs growing in the joints of their legs. These hairs are disposable and are regularly discarded by the males to mark territory. Females simply do not possess these hairs, and thus can be told apart via this fact.
+
+Moving up, the body of a Bastion is ovular with a very smooth surface. On either side between the legs and head are three fleshy sphincters that we will touch on later, but know they're very important for now. The body has very shallow angles built into its structure, with the only proper angles of attack being on the creature's flank for any ranged opponents. On top of the torso are two elytra, lighter plates of chitin that in normal beetles is used to protect the fragile wings of the creatures. In the Walking Bastion's case, these elytra are used to beat against the hard shell beneath, creating a horrific drumming noise that can easily cause temporary deafness in creatures close to the Bastion. It is particularly effective against creatures with sensitive hearing- like the infamous [[Man-Fishers]].
+
+The head of a Walking Bastion is a mere stump with eyes and a mouth. It's almost comical really, but nonetheless a wonderous little trick employed by the Bastion. On the rear of the creature a similar stump with markings resembling the Bastion's eyes and mouth are also present, and the symmetrical body plan of the Bastion can make it difficult to tell which side is which, even for mortals of higher intelligence than any [[Monsters|monster]] in [[The Sorrowed Weald|The Weald]]. Like normal insects- and rather unlike insects from [[The West]]- the Walking Bastion has two separate sets of compound eyes. These eyes rest on stalks that can protrude from the Bastion's head, giving the creature 360 degree vision, though not constantly.
+
+The only thing missing from a Bastion are ears- they all seem to lack them entirely. It's likely then that they use tremor sense to find one another instead of hearing. The mouth of a Bastion is rather unremarkable, being a simple pair of jaws with two pincers used to manipulate foodstuff.
+
+But, despite all these advantages there are still predators who would make a meal out of a Bastion. I have seen first hand the strung up carcasses of these beasts dangling from woven vines mixed with a dense film of green ichor. Their shells cracked open by a fast, violent projective and their flesh eaten by a creature that crawled in through the hole to feast. Inarguably the culprits are [[Man-Fishers]], the enigmatic predators of [[The Sorrowed Weald]] who have never, in 60 years of exploration been seen. Not even as a blur in the corner of one's vision.
+
+Despite the master of stealth that is a Man-Fisher's cunning, Walking Bastions remain a threat to the creatures. Do you recall the aforementioned sphincters on the flanks of the Bastions? These fleshy structures will open when the Bastion is threatened or senses danger- like the presence of a Man-Fisher- and from them large tubes will emerge. When opened these tubes release the smell of sulfur, though it's likely to not be a form of [[Pyromancy]] and only the natural odor of the Bastion's insides.
+
+If the threat persists these tubes will contract rapidly, releasing a cloud of boney shrapnel. These organic flechette cannons strip the bark from trees and can easily rip apart iron armor and eviscerate the wearer. During my Expedition into [[The West]] Harold Green's arm was not fully behind cover when we were taking action against a particularly onery Bastion. The small bit of his arm that was peaking from behind the rock he hid behind was ruined. If not for Amelia's presence he would surely have perished from such a wound.
+
+While we've never *seen* a [[Man-Fishers|Man-Fisher]] die to one of these barrages, we HAVE seen a Bastion deflect one's harpoon and return fire immediately afterwards. It's all too likely that Man-Fishers are at least resistant to the damage, but definitely not immune, as we found copious amounts of green blood near the base of one tree in the Bastion's area of effect. The creature was likely forced to retreat after sustaining grievous or at least horrific injury.
+
+Bastions often pursue and aggress upon [[Adventurers|adventurers]] that wander too close, or with anything that gets too close really. They are very aggressive fauna that only stop chasing something when they completely lose sight of it or if it ends up as paste beneath their girth. In otherwords, avoiding contact at all with a Walking Bastion is the key to avoiding conflict entirely. Treat them as you would a [[True Wyverns|True Wyvern]] and you'll be fine.
+
+If, however, combat becomes unavoidable strikes between the carapace and area of effect spells such as a fireball would work best to damaging the flesh of the Bastion. The creatures show weakness to [[Electromancy]], so voltaic damage will prove particularly useful. The low dexterity of a Bastion makes them very susceptible to such attacks as well. Blunt weapons will work to bypass some armor as well, so keep a maul or mace handy. Keeping to the front, rear and underbelly of a Bastion will keep oneself save from its flechette cannons- one blow might take you out of a fight completely, or even kill you instantly if you're too close.
+
+As herbivores Walking Bastions do not predate on any other [[monsters]]. They are preyed upon by rather cunning "[[Monster Group Names|Whiffs]]" of [[Riphawgs]], a kiln of [[Arcanosaurs]], their natural predators of course- the [[Man-Fishers]], [[Ossuary Titans]], [[True Wyverns]] during the rare instances such a creature ventures to [[The Sorrowed Weald|The Weald]], or a well-coordinated Insmouth of [[Fog Men]]. [[Death Knights]], curiously, will follow some Bastions in close proximity- which seems to make both the Bastion and the mutant especially passive. More research must be done.
